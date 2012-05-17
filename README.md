@@ -21,6 +21,8 @@ common space and collaborate on projects. This small event has since transformed
 the UK arm of [Hackshackers](http://meetuplondon.hackshackers.com/), an event originally
 kicked off by the New York Times.
 
-## [SKILLS](https://github.com/buddhamagnet/cv/blob/master/skills.md)
+## [WHAT CAN I DO?](https://github.com/buddhamagnet/cv/blob/master/skills.md)
 
-## [EMPLOYMENT](https://github.com/buddhamagnet/cv/blob/master/employment.md) 
+## [WHERE HAVE I BEEN?](https://github.com/buddhamagnet/cv/blob/master/employment.md) 
+
+## [COULD YOU WORK WITH ME?](https://github.com/buddhamagnet/cv/blob/master/me.md)
