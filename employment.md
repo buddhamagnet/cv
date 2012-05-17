@@ -28,6 +28,10 @@ My work at Comic Relief was varied, touching on back end work (writing back end 
 
 Worked as senior developer on a  fast-moving PHP development team comprising 12 developers, three seniors, [one lead](http://blog.mikepearce.net), a DBA, QA tester and manager. I was been involved in a number of projects, starting with converting the existing campaign site templates to standards-compliant tableless design, to playing a large part in rebuilding the entire PHP4 platform from scratch and delivering a PHP5 platform – team used the scrum agile methodology, version control and daily standup meetings to adapt fast to changing requirements. My domain included building a centralized signup process for all campaign sites, re-engineering the fulfillment system and redesigning the product module as a web service. 
 
+> “It was a great pleasure to work with Dave. He is a dedicated and focussed developer as well as being keen to help steer the direction of any product he is working on. He takes ownership of his work and was known for this tenacity in creating good, solid code. Dave is also someone able to talk to clients and colleagues without baffling, scaring or belittling them, something not all developers are capable of. I would definitely work with Dave again.”
+
+Mike Pearce, lead developer.
+
 ### [SUN MICROSYSTEMS](http://sun.com) NOVEMBER 1999 - MAY 2003
 
 Part of a enterprise development team using a mixture of technologies (primarily java) to migrate over 40 European websites from a legacy platform to a new platform built on oracle and documentum. I was initially hired as a contractor to assist in the migration process and was offered a permanent position after six months, working in a variety of domains in the global tech department, including working on sun.com and building a series of applications to aid in site maintenance and content delivery.
