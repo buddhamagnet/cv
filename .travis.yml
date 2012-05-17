@@ -4,3 +4,6 @@ rvm:
 notifications:
   email:
     - buddhamagnet@gmail.com
+    template:
+      - "buddhamagnet's CV has been updated! Check out %{repository_url}: %{message} %{foo}"
+        
