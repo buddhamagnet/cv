@@ -61,19 +61,19 @@ The original codebase was almost completely refactored, extra work included:
 * Performed security audit, focus on mass assignment holes
 * Implemented initial caching strategy using cache sweepers
 * Create JSON feed for [River Cottage team](http://www.peoplefund.it/) 
-* Integrated activemerchant for card processing
+* Integrated [activemerchant](https://github.com/Shopify/active_merchant) for card processing
 * Upgraded rails from 3 to 3.0.10 and prepped for 3.1
 * Built new admin back end
 * Built reporting system
 * Optimised queries (counter cache, n+1 queries etc.)
-* Added proper ActionMailer implementation replacing custom classes
+* Added proper actionmailer implementation replacing custom classes
 * Added code to add failed projects to robots.txt disallow directives
 * Added substantial test coverage, bolstering existing testunit suite and adding rspec
 * [Audioboo](http://audioboo.fm) integration
 * Implemented friendly URLs for books and users
 * Added extensive documentation
 * Refactored front end using shared partials and presenters
-* Integrated newrelic
+* Integrated [newrelic](https://github.com/newrelic/rpm)
 * Implemented HTTPS across the site
 * Implemented automated email system triggered by user events
 * Advised on git branching and merging strategy
