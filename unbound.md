@@ -47,5 +47,46 @@ end
 
 ````
 
+### WORKFLOW
+
+I worked primarily in vim usimg tmux for terminal management. All new features and bug fixes were worked on in git branches which were then tagged and pushed to the staging environment before being merged into the development branch and then master for final deployment. Deployment
+was done using capistrano. 
+
+### WORKLOG
+
+The original codebase was almost completely refactored, extra work included:
+
+* Added CSS3 media queries for mobile, ipad and retina display devices
+* Added maintenance page system to put site offline during large deployments
+* Performed security audit, focus on mass assignment holes
+* Implemented initial caching strategy using cache sweepers
+* Create JSON feed for [River Cottage team](http://www.peoplefund.it/) 
+* Integrated activemerchant for card processing
+* Upgraded rails from 3 to 3.0.10 and prepped for 3.1
+* Built new admin back end
+* Built reporting system
+* Optimised queries (counter cache, n+1 queries etc.)
+* Added proper ActionMailer implementation replacing custom classes
+* Added code to add failed projects to robots.txt disallow directives
+* Added substantial test coverage, bolstering existing testunit suite and adding rspec
+* [Audioboo](http://audioboo.fm) integration
+* Implemented friendly URLs for books and users
+* Added extensive documentation
+* Refactored front end using shared partials and presenters
+* Integrated newrelic
+* Implemented HTTPS across the site
+* Implemented automated email system triggered by user events
+* Advised on git branching and merging strategy
+* Advised on agile methodologies
+* Separated staging and production environments
+* Amended deployment process to run migrations and perform necessary rake tasks
+
+### RECOMMENDATIONS
+
+These are available for viewing on my linkedin page:
+
+> Dave has been an absolute pleasure to work with at Unbound, with his ability to see web development not simply from the coding perspective but from the users experience as well. Producing a site that is clear, works elegantly and doesn't fall over when people with 1.5 million Twitter followers tweet it, is a major achievement. Dave is also extremely affable, very easy to work with, highly conscientious and technically excellent. You couldn't ask for more.
+
+> Dave produced creative, well structured and stable code for the Unbound site, rewriting and testing large sections of an existing code base to better suit the application's purpose, as well as building features and squashing major bugs. He was on time, on budget and very conscientious. It is great to be able to work with a developer who is not only highly skilled but who thinks things through to the point of user interaction before implementation as well as during the testing process. This allowed his skills as a developer to help augment product creation in a swiftly changing startup environment. He is an exemplary freelance developer and a pleasure to work with.
 
 
