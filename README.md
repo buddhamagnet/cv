@@ -52,6 +52,8 @@ SQL, mySQL, MongoDB, Linux (CentOS), OSX
 
 ### [UNBOUND](http://unbound.co.uk) JANUARY 2012 - PRESENT
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/de9CQA7G6vk" frameborder="0" allowfullscreen></iframe>
+
 Freelancing for a UK-based startup created by the QI research team. Unbound provides a crowd-funded publishing platform for
 writers, both published and unknown, and has garnered an impressive amount of press over the last few months. I was originally
 brought in to assist in refactoring the original codebase but have since jumped in full-time. [Here's my contribution](https://github.com/buddhamagnet/cv/blob/master/unbound.md).
