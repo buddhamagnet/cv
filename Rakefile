@@ -1,3 +1,3 @@
-task :default
+task :default do
   true
 end
