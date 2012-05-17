@@ -1,1 +1,3 @@
-# Nithing to see here
+task :default => :environment do
+  true
+end
