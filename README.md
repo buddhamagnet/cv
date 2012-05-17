@@ -38,7 +38,7 @@ I am proficient in the following technologies and tools:
 
 ### VERSION CONTROL
 
-[git](http://git-scm.com/), [subversion])(http://subversion.tigris.org/), [bazaar](http://bazaar.canonical.com/en/)
+[git](http://git-scm.com/), [subversion](http://subversion.tigris.org/), [bazaar](http://bazaar.canonical.com/en/)
 
 ### FRONT END
 
