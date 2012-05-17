@@ -8,6 +8,15 @@
 [email](mailto://buddhamagnet@gmail.com) |
 [blog](http://kaleidopunk.heroku.com)
 
+## ABOUT THIS CV
+
+I started rewriting my resume in word but became increasingly frustrated, so I put it
+into git. If you are an adventurous agent or would-be employer send me your email
+address and I'll add it to the [travis](http://travis-ci.org) build notification list.
+I will only commit to this repo when I update the CV - and when I commit to github
+you'll get a notification that the text has changed. It's the geekiest resume update
+notifier of all time.
+
 ## IN A NUTSHELL
 
 I am a developer and writer with over a decade of experience working for all
