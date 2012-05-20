@@ -11,7 +11,7 @@ If you'd like to email me, please get in touch via one of the networks below.
   <a href="http://diasporauk.com" title="decentralized social network"><img src="http://kaleidopunk.heroku.com//images/diaspora_d_32.png" alt="our very own pod" class="icon" style="margin-top: 15px;"/></a>
   <a href="https://foursquare.com/user/672637" title="where am I"><img src="http://kaleidopunk.heroku.com//images/foursquare.png" alt="geo" class="icon" style="margin-top: 15px;"/></a>
   <a href="http://soundcloud.com/buddhamagnet" title="audio goodness"><img src="http://kaleidopunk.heroku.com//images/soundcloud.png" alt="audio" class="icon" style="margin-top: 15px;"/></a> 
- <a href="http://audioboo.fm/buddhamagnet" title="audio goodness"><img src="http://kaleidopunk.heroku.com/images/unnamed.jpeg" alt="audio" class="icon" style="margin-top: 15px;"/></a> 
+ <a href="http://audioboo.fm/buddhamagnet" title="audio goodness"><img src="http://kaleidopunk.heroku.com/images/audioboo.jpg" alt="audio" class="icon" style="margin-top: 15px;"/></a> 
   <a href="http://identi.ca/buddhamagnet" title="the little social network that could"><img src="http://kaleidopunk.heroku.com//images/identi.png" alt="fall back! fal back!" class="icon" style="margin-top: 15px;"/></a>
   <a href="http://stackoverflow.com/users/451914/buddhamagnet" title="what I've been asking"><img src="http://kaleidopunk.heroku.com//images/stackoverflow.png" alt="code school" class="icon" style="margin-top: 15px;"/></a>
   <a href="http://vimeo.com/user334655/videos" title="my video stream"><img src="http://kaleidopunk.heroku.com//images/vimeo.png" alt="video" class="icon" style="margin-top: 15px;"/></a>
