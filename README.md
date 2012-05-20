@@ -5,7 +5,7 @@
 If you'd like to email me, please get in touch via one of the networks below.
 
 <div style="width: 100%;">
-  <a href="http://uk.linkedin.com/in/dgoodchild"><img src="http://kaleidopunk.heroku.com//images/linkedin.png" alt="work stuff" class="icon" style="margin-top: 15px;"/></a>
+  <a href="http://uk.linkedin.com/in/dgoodchild" title="serious work stuff"><img src="http://kaleidopunk.heroku.com//images/linkedin.png" alt="work stuff" class="icon" style="margin-top: 15px;"/></a>
   <a href="http://twitter.com/buddhamagnet"><img src="http://kaleidopunk.heroku.com/images/twitter.png" alt="140" class="icon" style="margin-top: 15px;"/></a>
   <a href="http://github.com/buddhamagnet"><img src="http://kaleidopunk.heroku.com//images/github.png" alt="git me up" class="icon" style="margin-top: 15px;"/></a>
   <a href="http://diasporauk.com"><img src="http://kaleidopunk.heroku.com//images/diaspora_d_32.png" alt="our very own pod" class="icon" style="margin-top: 15px;"/></a>
