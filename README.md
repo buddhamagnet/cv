@@ -14,14 +14,6 @@
   <a href="http://vimeo.com/user334655/videos"><img src="http://kaleidopunk.heroku.com//images/vimeo.png" alt="video" class="icon" style="margin-top: 15px;"/></a>
   <a href="http://youtube.com/buddhamagnet"><img src="http://kaleidopunk.heroku.com//images/youtube.png" alt="more video" class="icon" style="margin-top: 15px;"/></a>
   <a href="http://delicious.com/buddhamagnet"><img src="http://kaleidopunk.heroku.com//images/delicious.png" alt="marks and books" class="icon" style="margin-top: 15px;"/></a>
-  </div>
-  <img src="http://kaleidopunk.heroku.com//images/shaman.jpg" alt="shaman in wool" class="fr" />
-
-[twitter](http://twitter.com/buddhamagnet) |
-[linkedin](http://uk.linkedin.com/in/dgoodchild) |
-[github](http://github.com/buddhamagnet) |
-[email](mailto://buddhamagnet@gmail.com) |
-[blog](http://kaleidopunk.heroku.com)
 
 ## ABOUT THIS CV
 
