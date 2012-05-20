@@ -3,7 +3,7 @@
 ## LINKS
 
 <a href="mailto://buddhamagnet@gmail.com"><img src="/images/email.png" alt="get in touch" class="icon" /></a>
-  <a href="http://twitter.com/buddhamagnet"><img src="/images/twitter.png" alt="140" class="icon" style="margin-top: 15px;"/></a>
+  <a href="http://twitter.com/buddhamagnet"><img src="kaleidopunk.heroku.com/images/twitter.png" alt="140" class="icon" style="margin-top: 15px;"/></a>
   <a href="http://github.com/buddhamagnet"><img src="/images/github.png" alt="git me up" class="icon" style="margin-top: 15px;"/></a>
   <a href="http://diasporauk.com"><img src="/images/diaspora_d_32.png" alt="our very own pod" class="icon" style="margin-top: 15px;"/></a>
   <a href="https://foursquare.com/user/672637"><img src="/images/foursquare.png" alt="geo" class="icon" style="margin-top: 15px;"/></a>
