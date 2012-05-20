@@ -4,17 +4,19 @@
 
 If you'd like to email me, please get in touch via one of the networks below.
 
-<a href="http://uk.linkedin.com/in/dgoodchild"><img src="http://kaleidopunk.heroku.com//images/linkedin.png" alt="work stuff" class="icon" style="margin-top: 15px;"/></a>
-<a href="http://twitter.com/buddhamagnet"><img src="http://kaleidopunk.heroku.com/images/twitter.png" alt="140" class="icon" style="margin-top: 15px;"/></a>
-<a href="http://github.com/buddhamagnet"><img src="http://kaleidopunk.heroku.com//images/github.png" alt="git me up" class="icon" style="margin-top: 15px;"/></a>
-<a href="http://diasporauk.com"><img src="http://kaleidopunk.heroku.com//images/diaspora_d_32.png" alt="our very own pod" class="icon" style="margin-top: 15px;"/></a>
-<a href="https://foursquare.com/user/672637"><img src="http://kaleidopunk.heroku.com//images/foursquare.png" alt="geo" class="icon" style="margin-top: 15px;"/></a>
-<a href="http://soundcloud.com/buddhamagnet"><img src="http://kaleidopunk.heroku.com//images/soundcloud.png" alt="audio" class="icon" style="margin-top: 15px;"/></a>  
-<a href="http://identi.ca/buddhamagnet"><img src="http://kaleidopunk.heroku.com//images/identi.png" alt="fall back! fal back!" class="icon" style="margin-top: 15px;"/></a>
-<a href="http://stackoverflow.com/users/451914/buddhamagnet"><img src="http://kaleidopunk.heroku.com//images/stackoverflow.png" alt="code school" class="icon" style="margin-top: 15px;"/></a>
-<a href="http://vimeo.com/user334655/videos"><img src="http://kaleidopunk.heroku.com//images/vimeo.png" alt="video" class="icon" style="margin-top: 15px;"/></a>
-<a href="http://youtube.com/buddhamagnet"><img src="http://kaleidopunk.heroku.com//images/youtube.png" alt="more video" class="icon" style="margin-top: 15px;"/></a>
-<a href="http://delicious.com/buddhamagnet"><img src="http://kaleidopunk.heroku.com//images/delicious.png" alt="marks and books" class="icon" style="margin-top: 15px;"/></a>
+<div style="width: 100%;">
+  <a href="http://uk.linkedin.com/in/dgoodchild"><img src="http://kaleidopunk.heroku.com//images/linkedin.png" alt="work stuff" class="icon" style="margin-top: 15px;"/></a>
+  <a href="http://twitter.com/buddhamagnet"><img src="http://kaleidopunk.heroku.com/images/twitter.png" alt="140" class="icon" style="margin-top: 15px;"/></a>
+  <a href="http://github.com/buddhamagnet"><img src="http://kaleidopunk.heroku.com//images/github.png" alt="git me up" class="icon" style="margin-top: 15px;"/></a>
+  <a href="http://diasporauk.com"><img src="http://kaleidopunk.heroku.com//images/diaspora_d_32.png" alt="our very own pod" class="icon" style="margin-top: 15px;"/></a>
+  <a href="https://foursquare.com/user/672637"><img src="http://kaleidopunk.heroku.com//images/foursquare.png" alt="geo" class="icon" style="margin-top: 15px;"/></a>
+  <a href="http://soundcloud.com/buddhamagnet"><img src="http://kaleidopunk.heroku.com//images/soundcloud.png" alt="audio" class="icon" style="margin-top: 15px;"/></a>  
+  <a href="http://identi.ca/buddhamagnet"><img src="http://kaleidopunk.heroku.com//images/identi.png" alt="fall back! fal back!" class="icon" style="margin-top: 15px;"/></a>
+  <a href="http://stackoverflow.com/users/451914/buddhamagnet"><img src="http://kaleidopunk.heroku.com//images/stackoverflow.png" alt="code school" class="icon" style="margin-top: 15px;"/></a>
+  <a href="http://vimeo.com/user334655/videos"><img src="http://kaleidopunk.heroku.com//images/vimeo.png" alt="video" class="icon" style="margin-top: 15px;"/></a>
+  <a href="http://youtube.com/buddhamagnet"><img src="http://kaleidopunk.heroku.com//images/youtube.png" alt="more video" class="icon" style="margin-top: 15px;"/></a>
+  <a href="http://delicious.com/buddhamagnet"><img src="http://kaleidopunk.heroku.com//images/delicious.png" alt="marks and books" class="icon" style="margin-top: 15px;"/></a>
+</div>
 
 ## ABOUT THIS CV
 
