@@ -67,6 +67,7 @@ The original codebase was almost completely refactored, extra work included:
 * Built reporting system
 * Optimised queries (counter cache, n+1 queries etc.)
 * Added proper actionmailer implementation replacing custom classes
+* Added automatic email notifier using above implementation
 * Added code to add failed projects to robots.txt disallow directives
 * Added substantial test coverage, bolstering existing testunit suite and adding rspec
 * [Audioboo](http://audioboo.fm) integration
@@ -80,3 +81,4 @@ The original codebase was almost completely refactored, extra work included:
 * Advised on agile methodologies
 * Separated staging and production environments
 * Amended deployment process to run migrations and perform necessary rake tasks
+* Added sales and transaction reporting interface with CSV download
