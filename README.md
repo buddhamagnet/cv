@@ -41,6 +41,9 @@ common space and collaborate on projects. This small event has since transformed
 the UK arm of [Hackshackers](http://meetuplondon.hackshackers.com/), an event originally
 kicked off by the New York Times.
 
+The spattering of code on [gist.github.com](https://gist.github.com/buddhamagnet) will give
+you a snapshot of things I am working through right now, check [github](http://github.com/buddhamagnet) for more.
+
 ## [WHAT CAN I DO?](https://github.com/buddhamagnet/cv/blob/master/skills.md)
 
 ## [WHERE HAVE I BEEN?](https://github.com/buddhamagnet/cv/blob/master/employment.md) 
