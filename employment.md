@@ -3,7 +3,14 @@
 ### [UNBOUND](http://unbound.co.uk) JUNE 2011 - PRESENT
 
 Freelancing for a UK-based startup created by the QI research team. Unbound provides a crowd-funded publishing platform for
-writers, both published and unknown, and has garnered an impressive amount of press over the last few months. I was originally
+writers, both published and unknown, and has garnered an impressive amount of press over the last few months:
+
+*[TechCrunch](http://techcrunch.com/2011/05/29/unbound-launches-its-kickstarter-byliner-hybrid-for-celebrity-authors/)
+*[Mashable](http://mashable.com/2011/06/01/unbound/)
+*[Wired](http://www.wired.co.uk/news/archive/2011-05/29/unbound-publishing-platform)
+*[Telegraph](http://www.telegraph.co.uk/culture/hay-festival/8543961/Hay-Festival-2011-New-site-Unbound-gives-readers-the-power-of-publishing.html)
+
+I was originally
 brought in to assist in refactoring the original codebase but have since jumped in full-time. [Here's my contribution](https://github.com/buddhamagnet/cv/blob/master/unbound.md).
 
 > “Dave has been an absolute pleasure to work with at Unbound, with his ability to see web development not simply from the coding perspective but from the users experience as well. Producing a site that is clear, works elegantly and doesn't fall over when people with 1.5 million Twitter followers tweet it, is a major achievement. Dave is also extremely affable, very easy to work with, highly conscientious and technically excellent. You couldn't ask for more.”
