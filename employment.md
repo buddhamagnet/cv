@@ -5,10 +5,10 @@
 Freelancing for a UK-based startup created by the QI research team. Unbound provides a crowd-funded publishing platform for
 writers, both published and unknown, and has garnered an impressive amount of press over the last few months:
 
-*[TechCrunch](http://techcrunch.com/2011/05/29/unbound-launches-its-kickstarter-byliner-hybrid-for-celebrity-authors/)
-*[Mashable](http://mashable.com/2011/06/01/unbound/)
-*[Wired](http://www.wired.co.uk/news/archive/2011-05/29/unbound-publishing-platform)
-*[Telegraph](http://www.telegraph.co.uk/culture/hay-festival/8543961/Hay-Festival-2011-New-site-Unbound-gives-readers-the-power-of-publishing.html)
+* [TechCrunch](http://techcrunch.com/2011/05/29/unbound-launches-its-kickstarter-byliner-hybrid-for-celebrity-authors/)
+* [Mashable](http://mashable.com/2011/06/01/unbound/)
+* [Wired](http://www.wired.co.uk/news/archive/2011-05/29/unbound-publishing-platform)
+* [Telegraph](http://www.telegraph.co.uk/culture/hay-festival/8543961/Hay-Festival-2011-New-site-Unbound-gives-readers-the-power-of-publishing.html)
 
 I was originally
 brought in to assist in refactoring the original codebase but have since jumped in full-time. [Here's my contribution](https://github.com/buddhamagnet/cv/blob/master/unbound.md).
