@@ -2,15 +2,18 @@
 
 ```ruby
 
+source 'http://rubygems.org'
+
 gem 'rails', '3.0.10'
 gem 'sqlite3-ruby', :require => 'sqlite3'
 gem 'xml-simple', '1.0.11'
 gem 'builder', '2.1.2'
 gem 'mime-types', ' 1.16'
 gem 'paperclip', '2.3.8'
+gem 'will_paginate', '3.0.pre2'
 gem 'panda', "1.3.0"
 gem 'aws-s3', '0.5.1', :require => 'aws/s3'
-gem 'typus'
+gem "aws-ses", "~> 0.4.1", :require => 'aws/ses'
 gem 'jquery-rails'
 gem 'gritter'
 gem 'activemerchant', :git => 'git://github.com/Shopify/active_merchant.git'
@@ -19,10 +22,17 @@ gem 'pony'
 gem 'kaminari'
 gem 'rake', '0.8.7'
 gem 'newrelic_rpm'
-gem 'friendly_id'
+gem 'friendly_id', '~> 4.0.0.beta8'
 gem 'jbuilder'
+gem 'activeadmin'
+gem 'fastercsv'
+gem 'gibbon'
+gem 'daemons', '1.0.10'
+gem 'delayed_job_active_record'
+gem 'delayed_job_web'
 
 group :production do
+# cmd line: bundle --without=production
   gem 'mysql2', '0.2.7'
   gem 'backup'
 end
