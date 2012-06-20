@@ -51,7 +51,7 @@ My work at Comic Relief was varied, touching on back end work (writing back end 
 
 Paul Wood, senior designer.
 
-### [JELLYFISH](http://jellyfish.co.uk) MAY 2007 - SEPTEMBER 2010
+### [JELLYFISH](http://jellyfish.co.uk) MAY 2007 - SEPTEMBER 2009
 
 Worked as senior developer on a  fast-moving PHP development team comprising 12 developers, three seniors, [one lead](http://blog.mikepearce.net), a DBA, QA tester and manager. I was been involved in a number of projects, starting with converting the existing campaign site templates to standards-compliant tableless design, to playing a large part in rebuilding the entire PHP4 platform from scratch and delivering a PHP5 platform – team used the scrum agile methodology, version control and daily standup meetings to adapt fast to changing requirements. My domain included building a centralized signup process for all campaign sites, re-engineering the fulfillment system and redesigning the product module as a web service. 
 
