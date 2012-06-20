@@ -90,3 +90,4 @@ The original codebase was almost completely refactored, extra work included:
 * Separated staging and production environments
 * Amended deployment process to run migrations and perform necessary rake tasks
 * Added sales and transaction reporting interface with CSV download
+* Complete refactor of UX enabling purchase of physical books post-publish
