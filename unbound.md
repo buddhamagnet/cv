@@ -12,7 +12,7 @@ gem 'mime-types', ' 1.16'
 gem 'paperclip', '2.3.8'
 gem 'panda', "1.3.0"
 gem 'aws-s3', '0.5.1', :require => 'aws/s3'
-gem "aws-ses", "~> 0.4.1", :require => 'aws/ses'
+gem 'aws-ses', "~> 0.4.1", :require => 'aws/ses'
 gem 'jquery-rails'
 gem 'gritter'
 gem 'activemerchant', :git => 'git://github.com/Shopify/active_merchant.git'
