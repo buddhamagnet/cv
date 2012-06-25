@@ -21,7 +21,7 @@ brought in to assist in refactoring the original codebase but have since jumped 
 
 Xander Cansell, product owner.
 
-### [THE ECONOMIST](http://www.economist.com) JUNE 2011 - APRIL 2012
+### [THE ECONOMIST](http://www.economist.com) JUNE 2011 - MARCH 2012
  
 Worked as a contract developer for the Economist Online London team, part of a larger distributed team based in London, New York and Austin Texas. Part of the SWAT sub-team responsible for both ongoing maintenance and feature delivery. Work touched on every part of the codebase and associated infrastructure, from building custom modules to reviewing and vendor branching contributed modules through to front end work, assisting with fine-tuning development methodologies (workflow involves topic branches, peer review and continuous integration). The Economist employ pressflow and varnish, use bazaar for version control and operate one of the slickest development setups I have ever seen. 
 
