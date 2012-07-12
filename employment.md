@@ -1,6 +1,10 @@
 ## [BACK TO CV](https://github.com/buddhamagnet/cv/blob/master/README.md) 
 
-### [UNBOUND](http://unbound.co.uk) JUNE 2011 - PRESENT
+### [THE ECONOMIST](http://www.economist.com) JULY 2012 - PRESENT
+
+Back with my good friends at The Economist working on some short-term projects.
+
+### [UNBOUND](http://unbound.co.uk) JUNE 2011 - JUNE 2012
 
 Freelancing for a UK-based startup created by the QI research team. Unbound provides a crowd-funded publishing platform for
 writers, both published and unknown, and has garnered an impressive amount of press over the last few months:
