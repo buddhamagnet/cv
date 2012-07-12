@@ -5,7 +5,7 @@
 #### LANGUAGES
 
 I speak intermediate spanish and am currently learning french. My spanish is not fluent yet, but if you dropped me in<br />
-a spanish-speaking countru I wouldn’t starve. 
+a spanish-speaking country I wouldn’t starve. 
 
 ### WRITING 
 
