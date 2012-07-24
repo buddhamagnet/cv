@@ -27,6 +27,10 @@ Xander Cansell, product owner.
 
 ### [THE ECONOMIST](http://www.economist.com) JUNE 2011 - MARCH 2012
 
+> “I worked with Dave Goodchild at the Economist. Dave is a fantastic person to work with. Not only does he hold to a high standard of excellence (even if that means spending great amounts of time cleaning up other people's messes), but he brings a charisma and enthusiasm into his work that is just contagious.
+
+Judah Anthony, lead developer, New York office.
+
 > "I had the luck to work with Dave for almost a year. He is one of the hard worker colleagues who helps you first whenever you have a problem. It was surprising sometimes how quickly and precisely he can solve problems. His technical skills are really great - and also as a team member he is able to keep up a good spirit no matter how hard the pressure is. I would love to work with him again in the future."
 
 Peter Arato, Drupal developer.
