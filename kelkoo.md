@@ -37,6 +37,8 @@ Linux
 Previous experience working with non-english, or dual language websites
 Familiarity with A/B and Multi-Variate testing.
 
+Built a small sample app using split (here)[http://abtests.herokuapp.com/]
+
 Person Specification/Key Competencies or skills:
 
 Friendly, confident and with a strong common sense
