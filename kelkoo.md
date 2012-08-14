@@ -37,7 +37,8 @@ Linux
 Previous experience working with non-english, or dual language websites
 Familiarity with A/B and Multi-Variate testing.
 
-Built a small sample app using split [here](http://abtests.herokuapp.com) including [dashboard](http://abtests.herokuapp.com/split)
+Built a small sample app using split [here](http://abtests.herokuapp.com) including [dashboard](http://abtests.herokuapp.com/split).
+I have also [forked](https://github.com/buddhamagnet/split) the repo to make some changes.
 
 Person Specification/Key Competencies or skills:
 
