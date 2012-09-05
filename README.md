@@ -33,7 +33,8 @@ I am a developer and writer with over a decade of experience working for all
 manner of organisations, from working as a single freelancer, through a number
 of cool startups, to large companies including [Sun Microsystems](http://sun.com)
 and [The Economist](http://economist.com). I am a passionate contributor to
-open source (recent contributions include [rstat.us](https://github.com/hotsh/rstat.us) and
+open source (I am in the process of collaborating on a Ruby gem for [app.net]()http://alpha.appnet)
+on [github](http://github.comkishyr/ADNRuby) and other recent contributions include [rstat.us](https://github.com/hotsh/rstat.us) and
 [diaspora](https://github.com/diaspora/diaspora)) and was one of the original creators
 of [rubyinthepub](http://www.joannageary.com/2010/05/13/ruby-in-the-pub-3/), a meet-up
 designed to put developers, journalists and writers in the same room to explore their
