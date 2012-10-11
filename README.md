@@ -18,6 +18,8 @@ If you'd like to email me, please get in touch via one of the networks below.
   <a href="http://delicious.com/buddhamagnet" title="social bookmarking - does it for me"><img src="http://kaleidopunk.heroku.com/images/delicious.png" alt="marks and books" class="icon" style="margin-top: 15px;"/></a>
 </div>
 
+[![endorse](http://api.coderwall.com/buddhamagnet/endorsecount.png)](http://coderwall.com/buddhamagnet)
+
 ## ABOUT THIS CV
 
 I started rewriting my resume in word but became increasingly frustrated, so I put it
