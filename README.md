@@ -18,6 +18,8 @@ If you'd like to email me, please get in touch via one of the networks below.
   <a href="http://delicious.com/buddhamagnet" title="social bookmarking - does it for me"><img src="http://kaleidopunk.heroku.com/images/delicious.png" alt="marks and books" class="icon" style="margin-top: 15px;"/></a>
 </div>
 
+[![endorse](http://api.coderwall.com/buddhamagnet/endorsecount.png)](http://coderwall.com/buddhamagnet)
+
 ## ABOUT THIS CV
 
 I started rewriting my resume in word but became increasingly frustrated, so I put it
@@ -33,7 +35,8 @@ I am a developer and writer with over a decade of experience working for all
 manner of organisations, from working as a single freelancer, through a number
 of cool startups, to large companies including [Sun Microsystems](http://sun.com)
 and [The Economist](http://economist.com). I am a passionate contributor to
-open source (recent contributions include [rstat.us](https://github.com/hotsh/rstat.us) and
+open source (I am in the process of collaborating on a Ruby gem for [app.net](http://alpha.app.net)
+on [github](https://github.com/adn-rb) and other recent contributions include [rstat.us](https://github.com/hotsh/rstat.us) and
 [diaspora](https://github.com/diaspora/diaspora)) and was one of the original creators
 of [rubyinthepub](http://www.joannageary.com/2010/05/13/ruby-in-the-pub-3/), a meet-up
 designed to put developers, journalists and writers in the same room to explore their
