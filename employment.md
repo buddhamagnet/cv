@@ -2,7 +2,8 @@
 
 ### [THE ECONOMIST](http://www.economist.com) JULY 2012 - PRESENT
 
-Back with my good friends at The Economist working on some short-term projects.
+Back with my good friends at The Economist working on some short-term projects. Also assisting with their migration to git 
+(including developer training and working with sysadmin to modify deployment and CI process accordingly).
 
 ### [UNBOUND](http://unbound.co.uk) JUNE 2011 - JUNE 2012
 
