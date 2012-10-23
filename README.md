@@ -47,6 +47,10 @@ kicked off by the New York Times.
 The spattering of code on [gist.github.com](https://gist.github.com/buddhamagnet) will give
 you a snapshot of things I am working through right now, check [github](http://github.com/buddhamagnet) for more.
 
+Recent open source contributions:
+
+* [split (AB testing gem)](https://github.com/andrew/split/commit/34e02ad38688af727ff79db9885ef362d40d2a8b) 
+
 ## [WHAT CAN I DO?](https://github.com/buddhamagnet/cv/blob/master/skills.md)
 
 ## [WHERE HAVE I BEEN?](https://github.com/buddhamagnet/cv/blob/master/employment.md) 
