@@ -3,7 +3,8 @@
 ### [THE ECONOMIST](http://www.economist.com) JULY 2012 - PRESENT
 
 Back with my good friends at The Economist working on some short-term projects. Also assisting with their migration to git 
-(including developer training and working with sysadmin to modify deployment and CI process accordingly).
+(including developer training and working with sysadmin to modify deployment and CI process accordingly). Have also been made
+a core committer which essentially makes me a final checkpoint on code going into the Economist codebase and associated applications.
 
 ### [UNBOUND](http://unbound.co.uk) JUNE 2011 - JUNE 2012
 
