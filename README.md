@@ -50,9 +50,11 @@ you a snapshot of things I am working through right now, check [github](http://g
 Recent open source contributions:
 
 * [adn (API wrapper for app.net](https://github.com/adn-rb/adn/graphs/contributors)
-* [adn-cli(command line client for same)](https://github.com/adn-rb/adn-cli/commit/c00f5a8d0bf589da54a99c723fd0e1c95c0f43e1)
+* [adn-cli(command line client for same)](https://github.com/adn-rb/adn-cli/graphs/contributors)
 * [split (AB testing gem)](https://github.com/andrew/split/graphs/contributors) 
 * [resque](https://github.com/defunkt/resque/graphs/contributors)
+* [diaspora](https://github.com/diaspora/diaspora/graphs/contributors)
+* [rstat.us](https://github.com/hotsh/rstat.us/graphs/contributors)
 
 ## [WHAT CAN I DO?](https://github.com/buddhamagnet/cv/blob/master/skills.md)
 
