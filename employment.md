@@ -6,6 +6,9 @@ Back with my good friends at The Economist working on some short-term projects. 
 (including developer training and working with sysadmin to modify deployment and CI process accordingly). Have also been made
 a core committer which essentially makes me a final checkpoint on code going into the Economist codebase and associated applications.
 
+Currently working on a project to decouple code from Drupal and help move The Economist towards a service-oriented archiecture. This
+project is pure javascript (with an admixture of jquery and underscore), tested using jasmine.
+
 ### [UNBOUND](http://unbound.co.uk) JUNE 2011 - JUNE 2012
 
 Freelancing for a UK-based startup (Rails 3 platform) created by the QI research team. Unbound provides a crowd-funded publishing platform for
