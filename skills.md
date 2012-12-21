@@ -2,9 +2,15 @@
 
 I am proficient in the following technologies and tools:
 
+### JS
+
+js (ECMAScript 3/5), [jquery](http://jquery.com), [underscore](http://underscorejs.org), [backbone](http://backbonejs.org),
+[meteor](http://meteor.com), [node](http://nodejs.org), [jasmine](http://pivotal.github.com/jasmine), 
+[phantomjs](http://phantomjs.org), [ember](http://emberjs.com), some [coffeescript](http://coffeescript.org).
+
 ### RUBY
 
-[ruby](http://ruby-lang.org) (1.8.7, 1.9.2, 1.9.3), [rails](http://rubyonrails.org) (2.3.8, 3, 3.1), 
+[ruby](http://ruby-lang.org) (1.8.7, 1.9.2, 1.9.3), [rails](http://rubyonrails.org) (2.3.8, 3, 3.1+), 
 [sinatra](http://www.sinatrarb.com), [rvm](https://rvm.io) and the full TDD/BDD stack<br />
 (testunit, [rspec](http://rspec.info/), [minitest](https://github.com/seattlerb/minitest), 
 [guard](https://github.com/guard/guard), [factory_girl](https://github.com/thoughtbot/factory_girl) and a host of related tools).
@@ -16,10 +22,6 @@ I am proficient in the following technologies and tools:
 ### VERSION CONTROL
 
 [git](http://git-scm.com/), [subversion](http://subversion.tigris.org/), [bazaar](http://bazaar.canonical.com/en/).
-
-### FRONT END
-
-[HTML(4/5)](http://html5.org/), [CSS(2/3)](http://www.w3.org/Style/CSS/current-work.en.html), javascript ([jquery](http://jquery.com/), [backbone](http://backbonejs.org)).
 
 ### BACK END
 
