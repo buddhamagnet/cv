@@ -4,7 +4,7 @@
 
 Back with my good friends at The Economist working on some short-term projects. Also assisting with their migration to git 
 (including developer training and working with sysadmin to modify deployment and CI process accordingly). Have also been made
-a core committer which essentially makes me a final checkpoint on code going into the Economist codebase and assoc
+a core committer which essentially makes me a final checkpoint on code going into the Economist codebase.
 Have also made a couple of trips to the Tower (where the journalists live) to introduce the graphics and front end team to the joys
 of selenium testing.
 
