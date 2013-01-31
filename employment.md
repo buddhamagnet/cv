@@ -8,9 +8,11 @@ a core committer which essentially makes me a final checkpoint on code going int
 Have also made a couple of trips to the Tower (where the journalists live) to introduce the graphics and front end team to the joys
 of selenium testing.
 
-Currently working on a project to decouple the Economist paywall from Drupal and help move The Economist towards a service-oriented archiecture. This
+Recenly completed a project to decouple the Economist paywall from Drupal and help move The Economist towards a service-oriented archiecture. This
 project is pure javascript (with an admixture of jquery and underscore), tested using jasmine and phantom. The application also 
 utilises local storage to store pre-compiled paywall templates.
+
+Currently working on the Economist mobile project, starting with a mobile paywall.
 
 ### [UNBOUND](http://unbound.co.uk) JUNE 2011 - JUNE 2012
 
