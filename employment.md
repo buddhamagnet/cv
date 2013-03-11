@@ -2,17 +2,21 @@
 
 ### [THE ECONOMIST](http://www.economist.com) JULY 2012 - PRESENT
 
-Back with my good friends at The Economist working on some short-term projects. Also assisting with their migration to git 
-(including developer training and working with sysadmin to modify deployment and CI process accordingly). Have also been made
-a core committer which essentially makes me a final checkpoint on code going into the Economist codebase.
-Have also made a couple of trips to the Tower (where the journalists live) to introduce the graphics and front end team to the joys
-of selenium testing.
+Back with my good friends at The Economist!
 
-Recenly completed a project to decouple the Economist paywall from Drupal and help move The Economist towards a service-oriented archiecture. This
+Recently completed a project to decouple the Economist paywall from Drupal and help move The Economist towards a service-oriented archiecture. This
 project is pure javascript (with an admixture of jquery and underscore), tested using jasmine and phantom. The application also 
 utilises local storage to store pre-compiled paywall templates.
 
-Currently working on the Economist mobile project, starting with a mobile paywall.
+Currently working on the Economist mobile project - driving the mobile wallpage implementation as well as working on some high
+profile mobile entry points (login and registration pages) as well as a larger initiative to start placing more
+diverse Economist content behind the paywall.
+
+Also assisting with their migration to git (including developer training and working with sysadmin to modify deployment and CI process accordingly). Have also been made
+a core committer which essentially makes me a final checkpoint on code going into the Economist codebase.
+
+Have also made a couple of trips to the Tower (where the journalists live) to introduce the graphics and front end team to the joys
+of selenium testing.
 
 ### [UNBOUND](http://unbound.co.uk) JUNE 2011 - JUNE 2012
 
