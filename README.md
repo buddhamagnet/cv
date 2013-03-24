@@ -49,6 +49,7 @@ you a snapshot of things I am working through right now, check [github](http://g
 
 Recent open source contributions:
 
+* [discourse](https://github.com/discourse/discourse)
 * [adn (API wrapper for app.net](https://github.com/adn-rb/adn/graphs/contributors)
 * [adn-cli(command line client for same)](https://github.com/adn-rb/adn-cli/graphs/contributors)
 * [split (AB testing gem)](https://github.com/andrew/split/graphs/contributors) 
