@@ -49,6 +49,7 @@ you a snapshot of things I am working through right now, check [github](http://g
 
 Recent open source contributions:
 
+* [rails](http://contributors.rubyonrails.org/contributors/buddhamagnet/commits)
 * [jumpstartlabs](https://github.com/JumpstartLab/curriculum/commit/2f6a26e4f62b9cd12e51d6d68758777d87f3af3d)
 * [discourse](https://github.com/discourse/discourse)
 * [adn (API wrapper for app.net](https://github.com/adn-rb/adn/graphs/contributors)
