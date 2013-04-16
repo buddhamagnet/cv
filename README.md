@@ -35,9 +35,7 @@ I am a developer and writer with over a decade of experience working for all
 manner of organisations, from working as a single freelancer, through a number
 of cool startups, to large companies including [Sun Microsystems](http://sun.com)
 and [The Economist](http://economist.com). I am a passionate contributor to
-open source (I am in the process of collaborating on a Ruby gem for [app.net](http://alpha.app.net)
-on [github](https://github.com/adn-rb) and other recent contributions include [rstat.us](https://github.com/hotsh/rstat.us) and
-[diaspora](https://github.com/diaspora/diaspora)) and was one of the original creators
+open source (I'm a [Rails core contributor](http://contributors.rubyonrails.org/contributors/buddhamagnet/commits)) and was one of the original creators
 of [rubyinthepub](http://www.joannageary.com/2010/05/13/ruby-in-the-pub-3/), a meet-up
 designed to put developers, journalists and writers in the same room to explore their
 common space and collaborate on projects. This small event has since transformed into 
@@ -49,7 +47,7 @@ you a snapshot of things I am working through right now, check [github](http://g
 
 Recent open source contributions:
 
-* [rails](http://contributors.rubyonrails.org/contributors/buddhamagnet/commits)
+* [RAILS](http://contributors.rubyonrails.org/contributors/buddhamagnet/commits)
 * [jumpstartlabs](https://github.com/JumpstartLab/curriculum/commit/2f6a26e4f62b9cd12e51d6d68758777d87f3af3d)
 * [discourse](https://github.com/discourse/discourse)
 * [adn (API wrapper for app.net](https://github.com/adn-rb/adn/graphs/contributors)
