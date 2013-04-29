@@ -48,8 +48,9 @@ you a snapshot of things I am working through right now, check [github](http://g
 Recent open source contributions:
 
 * [RAILS](http://contributors.rubyonrails.org/contributors/buddhamagnet/commits)
-* [jumpstartlabs](https://github.com/JumpstartLab/curriculum/commit/2f6a26e4f62b9cd12e51d6d68758777d87f3af3d)
+* [draper](https://github.com/drapergem/draper/graphs/contributors)
 * [discourse](https://github.com/discourse/discourse)
+* [jumpstartlabs](https://github.com/JumpstartLab/curriculum/commit/2f6a26e4f62b9cd12e51d6d68758777d87f3af3d)
 * [adn (API wrapper for app.net](https://github.com/adn-rb/adn/graphs/contributors)
 * [adn-cli(command line client for same)](https://github.com/adn-rb/adn-cli/graphs/contributors)
 * [split (AB testing gem)](https://github.com/andrew/split/graphs/contributors) 
