@@ -6,9 +6,10 @@ I am proficient in the following technologies and tools:
 
 For the last year or so I have been diving back into JavaScript and working with the new wave of libraries and frameworks.
 
-[jquery](http://jquery.com), [underscore](http://underscorejs.org), [backbone](http://backbonejs.org),
+[angular](http://angularjs.org/), [underscore](http://underscorejs.org),
 [meteor](http://meteor.com), [node](http://nodejs.org), [jasmine](http://pivotal.github.com/jasmine), 
-[phantomjs](http://phantomjs.org), [ember](http://emberjs.com), some [coffeescript](http://coffeescript.org).
+[phantomjs](http://phantomjs.org), [ember](http://emberjs.com), some [coffeescript](http://coffeescript.org), [yeoman](http://yeoman.io)
+and [grunt](http://gruntjs.com). And a lot of [jquery](http://jquery.com) of course.
 
 ### RUBY
 
