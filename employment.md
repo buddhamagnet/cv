@@ -10,7 +10,7 @@ Back with my good friends at The Economist!
 
 In the midst of a vast project the end goal of which is to deliver a service-oriented architecture for The Economist, which is
 essentially a monolithic Drupal installation. Work covers all aspects of this mammoth undertaking, from building of initial feature lists
-for potential vendors and working closely with all stakeholders to ensure the project is delivered with minimal risk and dispruption.
+for potential vendors and working closely with all stakeholders to ensure the project is delivered with minimal risk and disruption.
 
 The system is being broken down into several discrete components which can fail without bringing the rest of the system down and
 potentially be swapped out for other components if necessary. The in-house built components involve a large range of technologies - a
