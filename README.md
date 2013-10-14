@@ -47,20 +47,21 @@ you a snapshot of things I am working through right now, check [github](http://g
 
 Recent open source contributions:
 
-* [RAILS](http://contributors.rubyonrails.org/contributors/buddhamagnet/commits)
-* [RUBY](https://github.com/ruby/ruby/commit/71b6077a5354335f5f04b7e852a22b3290b9f528)
-* [RUBY](https://github.com/ruby/ruby/commit/5f55e23f9c2feb774aaffde8c9e20213c7b97497)
-* [regularity](https://github.com/andrewberls/regularity/pull/2)
-* [draper](https://github.com/drapergem/draper/graphs/contributors)
-* [discourse](https://github.com/discourse/discourse)
+* [ghost - js blogging engine](https://github.com/TryGhost/Ghost/graphs/contributors)
+* [rails](http://contributors.rubyonrails.org/contributors/buddhamagnet/commits)
+* [ruby](https://github.com/ruby/ruby/commit/71b6077a5354335f5f04b7e852a22b3290b9f528)
+* [ruby](https://github.com/ruby/ruby/commit/5f55e23f9c2feb774aaffde8c9e20213c7b97497)
+* [regularity - rb regex library](https://github.com/andrewberls/regularity/pull/2)
+* [draper - rb presenter library](https://github.com/drapergem/draper/graphs/contributors)
+* [discourse - rails and ember forum](https://github.com/discourse/discourse)
 * [jumpstartlabs](https://github.com/JumpstartLab/curriculum/commit/2f6a26e4f62b9cd12e51d6d68758777d87f3af3d)
 * [railsgirls](https://github.com/railsgirlslondon/railsgirls-london/contributors)
 * [adn (API wrapper for app.net)](https://github.com/adn-rb/adn/graphs/contributors)
 * [adn-cli(command line client for same)](https://github.com/adn-rb/adn-cli/graphs/contributors)
-* [split (AB testing gem)](https://github.com/andrew/split/graphs/contributors) 
-* [resque](https://github.com/defunkt/resque/graphs/contributors)
-* [diaspora](https://github.com/diaspora/diaspora/graphs/contributors)
-* [rstat.us](https://github.com/hotsh/rstat.us/graphs/contributors)
+* [split (ab testing gem)](https://github.com/andrew/split/graphs/contributors) 
+* [resque - rb redis-backed queue](https://github.com/defunkt/resque/graphs/contributors)
+* [diaspora - decentralized social software](https://github.com/diaspora/diaspora/graphs/contributors)
+* [rstat.us - decentralizised social software](https://github.com/hotsh/rstat.us/graphs/contributors)
 
 ## [WHAT CAN I DO?](https://github.com/buddhamagnet/cv/blob/master/skills.md)
 
