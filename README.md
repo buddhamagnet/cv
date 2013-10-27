@@ -34,9 +34,13 @@ notifier of all time.
 I am a developer and writer with over a decade of experience working for all
 manner of organisations, from working as a single freelancer, through a number
 of cool startups, to large companies including [Sun Microsystems](http://sun.com)
-and [The Economist](http://economist.com). I am a passionate contributor to
-open source (I'm a [Rails core contributor](http://contributors.rubyonrails.org/contributors/buddhamagnet/commits)) and was one of the original creators
-of [rubyinthepub](http://www.joannageary.com/2010/05/13/ruby-in-the-pub-3/), a meet-up
+and [The Economist](http://economist.com). 
+
+I've contributed to Ruby libraries (including Ruby itself and Rails), built Drupal modules
+and Wordpress plugins, and began a campaign on the front end by contributing to the Ghost
+blogging platform and building a series of Yeoman generators for The Economist.
+
+I was also one of the original creators of [rubyinthepub](http://www.joannageary.com/2010/05/13/ruby-in-the-pub-3/), a meet-up
 designed to put developers, journalists and writers in the same room to explore their
 common space and collaborate on projects. This small event has since transformed into 
 the UK arm of [Hackshackers](http://meetuplondon.hackshackers.com/), an event originally
