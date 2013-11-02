@@ -12,7 +12,7 @@ internal Rails application), Varnish, git, memcached, you name it.
 Heavily involved in an ongoing project to bring Javascript development at The Economist into the 21st century (toolset involved:
 Bower, Grunt, Yeoman, Jasmine, Qunit, Node and Express).
 
-#### GOOGLE PLAY INTEGRTATION - IN PROGRESS
+#### GOOGLE PLAY INTEGRATION - IN PROGRESS
 
 Core developer on a project to integrate our subscription and reconciliation services into Google Play, built using a framework composed
 of Symfony components.
