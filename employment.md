@@ -14,7 +14,7 @@ Bower, Grunt, Yeoman, Jasmine, Qunit, Node and Express).
 
 #### GOOGLE PLAY INTEGRATION - IN PROGRESS
 
-Sole developer on a project to integrate our subscription and reconciliation services into Google Play, built using a framework composed of Symfony components and exposing a JSON API. Involves working closely with the team of Java developers tasked with working on the Economist Android app.
+Sole developer on a project to integrate our subscription and reconciliation services into Google Play, built using a back end composed of Symfony components and exposing a JSON API. Involves working closely with the team of Java developers tasked with working on the Economist Android app.
 
 #### DECOUPLING THE ECONOMIST - IN PROGRESS
 
