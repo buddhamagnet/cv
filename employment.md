@@ -7,6 +7,10 @@ internal Rails application), Varnish, git, memcached, you name it.
 
 #### PROJECTS
 
+#### RAILS APPLICATION - ONGOING
+
+Providing support for a Rails application owned by [Digital News Agency](digitalnewsagency.com) (part of the Economist Group), including advising on upgrading from Rails 2.3.8 to 3 and then 3.1, building a robust test harness around the application and supporting ongoing development.
+
 #### THE JAVASCRIPT CAMPAIGN - ONGOING
 
 Heavily involved in an ongoing project to bring Javascript development at The Economist into the 21st century (toolset involved:
