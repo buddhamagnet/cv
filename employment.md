@@ -2,7 +2,7 @@
 
 ### [THE ECONOMIST](http://www.economist.com) JULY 2012 - PRESENT
 
-Back with my good friends at The Economist! Working with an varied and exciting technology stack (PHP for Drupal and Symfony, Ruby for Puppet, Capistrano, Compass/SASS and an 
+Working with an varied and exciting technology stack (PHP for Drupal and Symfony, Ruby for Puppet, Capistrano, Compass/SASS and an 
 internal Rails application), Varnish, git, memcached, you name it.
 
 #### PROJECTS
