@@ -69,6 +69,14 @@ a core committer which essentially makes me a final checkpoint on code going int
 Have also made a couple of trips to the Tower (where the journalists live) to introduce the graphics and front end team to the joys
 of selenium testing.
 
+> “I worked with Dave Goodchild at the Economist. Dave is a fantastic person to work with. Not only does he hold to a high standard of excellence (even if that means spending great amounts of time cleaning up other people's messes), but he brings a charisma and enthusiasm into his work that is just contagious."
+
+Judah Anthony, lead developer, New York office.
+
+> "I had the luck to work with Dave for almost a year. He is one of the hard worker colleagues who helps you first whenever you have a problem. It was surprising sometimes how quickly and precisely he can solve problems. His technical skills are really great - and also as a team member he is able to keep up a good spirit no matter how hard the pressure is. I would love to work with him again in the future."
+
+Peter Arato, Drupal developer.
+
 ### [UNBOUND](http://unbound.co.uk) JUNE 2011 - JUNE 2012
 
 Freelancing for a UK-based startup (Rails 3 platform) created by the QI research team. Unbound provides a crowd-funded publishing platform for
@@ -89,18 +97,6 @@ brought in to assist in refactoring the original codebase but soon jumped in ful
 > “Dave produced creative, well structured and stable code for the Unbound site, rewriting and testing large sections of an existing code base to better suit the application's purpose, as well as building features and squashing major bugs. He was on time, on budget and very conscientious. It is great to be able to work with a developer who is not only highly skilled but who thinks things through to the point of user interaction before implementation as well as during the testing process. This allowed his skills as a developer to help augment product creation in a swiftly changing startup environment. He is an exemplary freelance developer and a pleasure to work with.”
 
 Xander Cansell, product owner.
-
-### [THE ECONOMIST](http://www.economist.com) JUNE 2011 - MARCH 2012
-
-> “I worked with Dave Goodchild at the Economist. Dave is a fantastic person to work with. Not only does he hold to a high standard of excellence (even if that means spending great amounts of time cleaning up other people's messes), but he brings a charisma and enthusiasm into his work that is just contagious."
-
-Judah Anthony, lead developer, New York office.
-
-> "I had the luck to work with Dave for almost a year. He is one of the hard worker colleagues who helps you first whenever you have a problem. It was surprising sometimes how quickly and precisely he can solve problems. His technical skills are really great - and also as a team member he is able to keep up a good spirit no matter how hard the pressure is. I would love to work with him again in the future."
-
-Peter Arato, Drupal developer.
- 
-Worked as a contract developer for the Economist Online London team, part of a larger distributed team based in London, New York and Austin Texas. Part of the SWAT sub-team responsible for both ongoing maintenance and feature delivery. Work touched on every part of the codebase and associated infrastructure, from building custom modules to reviewing and vendor branching contributed modules through to front end work, assisting with fine-tuning development methodologies (workflow involves topic branches, peer review and continuous integration). The Economist employ pressflow and varnish, use bazaar for version control and operate one of the slickest development setups I have ever seen. 
 
 ### [LOVEFRESH](http://lovefre.sh) AUGUST 2010 - JUNE 2011
 
