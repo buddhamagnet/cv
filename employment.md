@@ -108,7 +108,7 @@ Mark Spofforth, CEO.
 
 ### [TURNER BROADCASTING](http://turner.com) JULY 2010 - JUNE 2011
 
-Freelance developer in London-based digital team looking after [Cartoon Network](http://cartoonnetwork.co.uk), [Boomerang](http://boomerangtv.co.uk) and [Adult Swim](http://adultswim.co.uk) for 14 countries. Core remit is as a drupal developer with time split between building custom modules and maintenance tasks. Was instrumental in introducing Subversion branching and merging to the development team as well as building common code libraries and improving the overall development process. Also patched and extended the webistrano (rails) app used for deployment. 
+Freelance developer in London-based digital team looking after [Cartoon Network](http://cartoonnetwork.co.uk), [Boomerang](http://boomerangtv.co.uk) and [Adult Swim](http://adultswim.co.uk) for 14 countries. Core remit was as a Drupal developer with time split between building custom modules and maintenance tasks. Was instrumental in introducing version control branching and merging to the development team as well as building common code libraries and improving the overall development process. Also patched and extended the Webistrano (Rails) app used for deployment. 
 
 > “Dave is basically a great bloke with an excellent sense of humour. He really knows his stuff when it comes to Drupal development and is a pleasure to work with. If there's a technical issue that you need help with, Dave is the first to offer assistance.”
 
@@ -116,9 +116,9 @@ Mike King, web designer.
 
 ### [COMIC RELIEF](http://comicrelief.com) SEPTEMBER 2009 - JULY 20102
 
-Worked on the [Sport Relief](http://sportrelief.com) 2010 campaign as well as the Comic Relief and [Red Nose Day](http://rednoseday.com) sites. Main remit was to build custom drupal modules for the sites. Also rebuilt the existing web services back end for Sport Relief end using [zend framework](http://zend.com) and ported this to Comic Relief. 
+Worked on the [Sport Relief](http://sportrelief.com) 2010 campaign as well as the Comic Relief and [Red Nose Day](http://rednoseday.com) sites. Main remit was to build custom Drupal modules for the sites. Also rebuilt the existing web services back end for Sport Relief end using [Zend Framework](http://zend.com) and ported this to Comic Relief. 
 
-My work at Comic Relief was varied, touching on back end work (writing back end services for the flash-fronted part of the Sport Relief site using AMF; refactoring the Mile Event registration and management system using a combination of zend components and pure PHP; working on internal rails application used to manage data flow between various databases) and front end (building fundraising hub pages for major donors; working on theme layer for all three sites). 
+My work at Comic Relief was varied, touching on back end work (writing back end services for the Flash part of the Sport Relief site using AMF; refactoring the Mile Event registration and management system using a combination of Zend components and pure PHP; working on internal Rails application used to manage data flow between various databases) and front end (building fundraising hub pages for major donors; working on theme layer for all three sites). 
 
 > “I worked with David during Sport Relief 2010 and found him to be a consummate professional and technically proficient. His ability to understand the client's requirements and provide a swift and streamlined solution was commendable. As such I have no hesitation in recommending him as a proficient developer and an able communicator.”
 
