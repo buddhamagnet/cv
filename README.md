@@ -1,8 +1,8 @@
 # DAVID GOODCHILD
 
-## LINKS
-
 <!--
+
+## LINKS
 
 If you'd like to email me, please get in touch via one of the networks below.
 
