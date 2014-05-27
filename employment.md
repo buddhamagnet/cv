@@ -16,7 +16,7 @@ Providing support for a Rails application owned by [Digital News Agency](digital
 Heavily involved in an ongoing project to bring Javascript development at The Economist into the 21st century (toolset involved:
 Bower, Grunt, Yeoman, Jasmine, Qunit, Node and Express).
 
-#### GOOGLE PLAY INTEGRATION - IN PROGRESS
+#### GOOGLE PLAY INTEGRATION - SHIPPED!
 
 Sole developer on a project to integrate our subscription and reconciliation services into Google Play, built using a back end composed of Symfony components and exposing a JSON API. Involves working closely with the team of Java developers tasked with working on the Economist Android app.
 
