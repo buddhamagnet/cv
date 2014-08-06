@@ -53,6 +53,7 @@ you a snapshot of things I am working through right now, check [github](http://g
 
 Recent open source contributions:
 
+* [refinery CMS](https://github.com/refinery/refinerycms/pull/2649)
 * [sass documentation site](https://github.com/sass/sass-site/issues/86)
 * [ghost - js blogging engine](https://github.com/TryGhost/Ghost/graphs/contributors)
 * [varnish cache](https://github.com/buddhamagnet/Varnish-Cache/commit/ed4a09fc77a71715ef642ff7302e1ea27aed4669)
