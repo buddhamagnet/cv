@@ -53,6 +53,7 @@ you a snapshot of things I am working through right now, check [github](http://g
 
 Recent open source contributions:
 
+* [rails api](https://github.com/rails-api/rails-api/pull/145#issuecomment-52991509)
 * [refinery CMS](https://github.com/refinery/refinerycms/pull/2649)
 * [sass documentation site](https://github.com/sass/sass-site/issues/86)
 * [ghost - js blogging engine](https://github.com/TryGhost/Ghost/graphs/contributors)
