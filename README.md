@@ -14,7 +14,7 @@ If you'd like to email me, please get in touch via one of the networks below.
   <a href="https://foursquare.com/user/672637" title="where am I"><img src="http://kaleidopunk.heroku.com/images/foursquare.png" alt="geo" class="icon" style="margin-top: 15px;"/></a>
   <a href="http://soundcloud.com/buddhamagnet" title="audio goodness"><img src="http://kaleidopunk.heroku.com/images/soundcloud.png" alt="audio" class="icon" style="margin-top: 15px;"/></a> 
   <a href="http://identi.ca/buddhamagnet" title="the little social network that could"><img src="http://kaleidopunk.heroku.com/images/identi.png" alt="fall back! fal back!" class="icon" style="margin-top: 15px;"/></a>
-  <a href="http://stackoverflow.com/users/451914/buddhamagnet" title="what I've been asking"><img src="http://kaleidopunk.heroku.com/images/stackoverflow.png" alt="code school" class="icon" style="margin-top: 15px;"/></a>
+  <a href="http://stackoverflow.com/userars/451914/buddhamagnet" title="what I've been asking"><img src="http://kaleidopunk.heroku.com/images/stackoverflow.png" alt="code school" class="icon" style="margin-top: 15px;"/></a>
   <a href="http://vimeo.com/user334655/videos" title="my video stream"><img src="http://kaleidopunk.heroku.com/images/vimeo.png" alt="video" class="icon" style="margin-top: 15px;"/></a>
   <a href="http://youtube.com/buddhamagnet" title="my other video stream"><img src="http://kaleidopunk.heroku.com/images/youtube.png" alt="more video" class="icon" style="margin-top: 15px;"/></a>
   <a href="http://delicious.com/buddhamagnet" title="social bookmarking - does it for me"><img src="http://kaleidopunk.heroku.com/images/delicious.png" alt="marks and books" class="icon" style="margin-top: 15px;"/></a>
@@ -53,12 +53,12 @@ you a snapshot of things I am working through right now, check [github](http://g
 
 Recent open source contributions:
 
+* [rails](http://contributors.rubyonrails.org/contributors/dave-goodchild/commits)
 * [rails api](https://github.com/rails-api/rails-api/pull/145#issuecomment-52991509)
 * [refinery CMS](https://github.com/refinery/refinerycms/pull/2649)
 * [sass documentation site](https://github.com/sass/sass-site/issues/86)
 * [ghost - js blogging engine](https://github.com/TryGhost/Ghost/graphs/contributors)
 * [varnish cache](https://github.com/buddhamagnet/Varnish-Cache/commit/ed4a09fc77a71715ef642ff7302e1ea27aed4669)
-* [rails](https://github.com/rails/rails/commits/master?author=buddhamagnet)
 * [ruby](https://github.com/ruby/ruby/commit/71b6077a5354335f5f04b7e852a22b3290b9f528)
 * [ruby](https://github.com/ruby/ruby/commit/5f55e23f9c2feb774aaffde8c9e20213c7b97497)
 * [regularity - rb regex library](https://github.com/andrewberls/regularity/pull/2)
