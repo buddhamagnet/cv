@@ -1,50 +1,19 @@
 # DAVID GOODCHILD
 
-<!--
-
-## LINKS
-
-If you'd like to email me, please get in touch via one of the networks below.
-
-<div style="width: 100%;">
-  <a href="http://uk.linkedin.com/in/dgoodchild" title="serious work stuff"><img src="http://kaleidopunk.heroku.com/images/linkedin.png" alt="work stuff" class="icon" style="margin-top: 15px;"/></a>
-  <a href="http://twitter.com/buddhamagnet" title="social media backbone"><img src="http://kaleidopunk.heroku.com/images/twitter.png" alt="140" class="icon" style="margin-top: 15px;"/></a>
-  <a href="http://github.com/buddhamagnet" title="open source movements"><img src="http://kaleidopunk.heroku.com/images/github.png" alt="git me up" class="icon" style="margin-top: 15px;"/></a>
-  <a href="http://diasporauk.com" title="decentralized social network"><img src="http://kaleidopunk.heroku.com/images/diaspora_d_32.png" alt="our very own pod" class="icon" style="margin-top: 15px;"/></a>
-  <a href="https://foursquare.com/user/672637" title="where am I"><img src="http://kaleidopunk.heroku.com/images/foursquare.png" alt="geo" class="icon" style="margin-top: 15px;"/></a>
-  <a href="http://soundcloud.com/buddhamagnet" title="audio goodness"><img src="http://kaleidopunk.heroku.com/images/soundcloud.png" alt="audio" class="icon" style="margin-top: 15px;"/></a> 
-  <a href="http://identi.ca/buddhamagnet" title="the little social network that could"><img src="http://kaleidopunk.heroku.com/images/identi.png" alt="fall back! fal back!" class="icon" style="margin-top: 15px;"/></a>
-  <a href="http://stackoverflow.com/userars/451914/buddhamagnet" title="what I've been asking"><img src="http://kaleidopunk.heroku.com/images/stackoverflow.png" alt="code school" class="icon" style="margin-top: 15px;"/></a>
-  <a href="http://vimeo.com/user334655/videos" title="my video stream"><img src="http://kaleidopunk.heroku.com/images/vimeo.png" alt="video" class="icon" style="margin-top: 15px;"/></a>
-  <a href="http://youtube.com/buddhamagnet" title="my other video stream"><img src="http://kaleidopunk.heroku.com/images/youtube.png" alt="more video" class="icon" style="margin-top: 15px;"/></a>
-  <a href="http://delicious.com/buddhamagnet" title="social bookmarking - does it for me"><img src="http://kaleidopunk.heroku.com/images/delicious.png" alt="marks and books" class="icon" style="margin-top: 15px;"/></a>
-</div>
-
-[![endorse](http://api.coderwall.com/buddhamagnet/endorsecount.png)](http://coderwall.com/buddhamagnet) -->
-
-## ABOUT THIS CV
-
-I started rewriting my resume in word but became increasingly frustrated, so I put it
-into git. If you are an adventurous agent or would-be employer send me your email
-address and I'll add it to the [travis](http://travis-ci.org) build notification list.
-I will only commit to this repo when I update the CV - and when I commit to github
-you'll get a notification that the text has changed. It's the geekiest resume update
-notifier of all time.
-
 ## IN A NUTSHELL
 
 I am a developer and writer with over a decade of experience working for all
 manner of organisations, from working as a single freelancer, through a number
 of cool startups, to large companies including [Sun Microsystems](http://sun.com)
-and [The Economist](http://economist.com). 
+and [The Economist](http://economist.com).
 
-I've contributed to Ruby libraries (including Ruby itself and Rails), built Drupal modules
-and Wordpress plugins, and began a campaign on the front end by contributing to the Ghost
-blogging platform and building a series of Yeoman generators for The Economist.
+## COMMUNITY
+
+I love open source!
 
 I was also one of the original creators of [rubyinthepub](http://www.joannageary.com/2010/05/13/ruby-in-the-pub-3/), a meet-up
 designed to put developers, journalists and writers in the same room to explore their
-common space and collaborate on projects. This small event has since transformed into 
+common space and collaborate on projects. This small event has since transformed into
 the UK arm of [Hackshackers](http://meetuplondon.hackshackers.com/), an event originally
 kicked off by the New York Times.
 
@@ -68,13 +37,60 @@ Recent open source contributions:
 * [railsgirls](https://github.com/railsgirlslondon/railsgirls-london/contributors)
 * [adn (API wrapper for app.net)](https://github.com/adn-rb/adn/graphs/contributors)
 * [adn-cli(command line client for same)](https://github.com/adn-rb/adn-cli/graphs/contributors)
-* [split (ab testing gem)](https://github.com/andrew/split/graphs/contributors) 
+* [split (ab testing gem)](https://github.com/andrew/split/graphs/contributors)
 * [resque - rb redis-backed queue](https://github.com/defunkt/resque/graphs/contributors)
 * [diaspora - decentralized social software](https://github.com/diaspora/diaspora/graphs/contributors)
 * [rstat.us - decentralizised social software](https://github.com/hotsh/rstat.us/graphs/contributors)
 
-## [WHAT CAN I DO?](https://github.com/buddhamagnet/cv/blob/master/skills.md)
+## COMMUNICATION
 
-## [WHERE HAVE I BEEN?](https://github.com/buddhamagnet/cv/blob/master/employment.md) 
+I pride myself on clear, engaging and timely communication and have delivered training for developers, the latest
+example being the handling of transitioning the Economist developer teams from the bzr version control system to git.
+
+## LANGUAGES AND FRAMEWORKS
+
+I pick up and apply new languages and frameworks fast, always keeping an eye on the bleeding edge, balanced with an
+understanding of the volatile and transient nature of many of the new and shiny toys. I make heavy use of Ruby and Rails (to which
+I have contributed), as well as many of the tools in that ecosystem, and have wide experience with PHP (Drupal and Symfony components).
+I prefer Ruby but am not a technical snob.
+
+## HTTP AND THE WEB
+
+My work at The Economist has involved a wholesale refactoring of the caching architecture at the HTTP level (Varnish) making me
+extremely familiar with the architecture of the web and its foibles.
+
+## UNIX AND THE COMMAND LINE
+
+Maybe goes without saying, but it's amazing how many developers I run into who are limited in this area. I constantly refine and
+rework my [dotfiles](https://github.com/buddhamagnet/dotfiles) giving me a portable command line environment wherever I go,
+and I use a scripted tmux setup to boost productivty. I grew up on Solaris and am comfortable with a wide range of Linux variants (currently CentOS).
+
+## DATABASES
+
+I reach beyond ORMs (Active Record, Doctrine et al) to squeeze as much power and efficiency from the databases that back many of the
+applications I use and build and am no afraid of SQL. I also have some experience with the NoSQL breed and am dipping into Postgres.
+
+## MODERN JAVASCRIPT AND CSS
+
+After absorbing the contents of JavaScript The Good Parts, I championed the adoption of modern JavaScript libraries and techniques at
+The Economist, including use of NPM and Node and collaborating with the front end team on building a series of Yeoman generators. I also assisted
+with the in-house implementation of Compass and SASS.
+
+### API DESIGN
+
+I developed (so far) two APIs almost single-handedly at The Economist which deliver JSON output to a variety of consumers (Android for the
+Google Play API and internal for a subscription access control service), paying special attention to proper use of HTTP verbs and hypermedia design.
+
+### SERVICE ORIENTED ARCHITECTURE
+
+I was instrumental in starting the process of breaking out core application functionality (paywall, access control) into discrete services allowing
+rapid iteration and deployment decoupled from the main site.
+
+## DEVOPS
+
+The above initiative was progressed in close collaboration with our sysadmins, something I had never experienced before! I also worked closely with my coleagues
+to adopt, implement and document the new tools and technologies we used to automate and streamline our workflow (Varnish, Puppet, Salt and Jenkins).
+
+## [WHERE HAVE I BEEN?](https://github.com/buddhamagnet/cv/blob/master/employment.md)
 
 ## [COULD YOU WORK WITH ME?](https://github.com/buddhamagnet/cv/blob/master/me.md)
