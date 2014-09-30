@@ -56,7 +56,7 @@ I prefer Ruby but am not a technical snob.
 
 ## HTTP AND THE WEB
 
-My work at The Economist has involved a wholesale refactoring of the caching architecture at the HTTP level (Varnish) making me
+My work at The Economist has involved a wholesale refactoring of the caching architecture at the HTTP level ([Varnish](https://www.varnish-cache.org/)) making me
 extremely familiar with the architecture of the web and its foibles.
 
 ## UNIX AND THE COMMAND LINE
@@ -73,7 +73,7 @@ applications I use and build and am no afraid of SQL. I also have some experienc
 ## MODERN JAVASCRIPT AND CSS
 
 After absorbing the contents of JavaScript The Good Parts, I championed the adoption of modern JavaScript libraries and techniques at
-The Economist, including use of NPM and Node and collaborating with the front end team on building a series of Yeoman generators. I also assisted
+The Economist, including use of NPM and Node and collaborating with the front end team on building a series of [Yeoman](http://yeoman.io/) generators. I also assisted
 with the in-house implementation of Compass and SASS.
 
 ### API DESIGN
@@ -89,7 +89,7 @@ rapid iteration and deployment decoupled from the main site.
 ## DEVOPS
 
 The above initiative was progressed in close collaboration with our sysadmins, something I had never experienced before! I also worked closely with my coleagues
-to adopt, implement and document the new tools and technologies we used to automate and streamline our workflow (Varnish, Puppet, Salt and Jenkins).
+to adopt, implement and document the new tools and technologies we used to automate and streamline our workflow ([Varnish](https://www.varnish-cache.org/), [Puppet](http://puppetlabs.com/puppet/puppet-enterprise) and [Salt](http://www.saltstack.com/) and Jenkins).
 
 ## [WHERE HAVE I BEEN?](https://github.com/buddhamagnet/cv/blob/master/employment.md)
 
