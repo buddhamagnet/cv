@@ -1,4 +1,8 @@
-## [BACK TO CV](https://github.com/buddhamagnet/cv/blob/master/README.md) 
+## [BACK TO CV](https://github.com/buddhamagnet/cv/blob/master/README.md)
+
+### [WILD EARTH PRODUCTIONS](http://wildearth.productions) OCTOBER 2014 - PRESENT
+
+Designed and built a fully responsive site backed by Refinery CMS for Wild Earth Productions, a new business specialising in remote location support for film, TV and advertising organisations. The brainchild of Jason Ingamells, owner of the [Woodland Ways](http://woodland-ways.co.uk) bushcraft and survival school and [Anders Brogaard](http://www.andersbrogaard.co.uk), globe-trotting commercial photographer. I am technical consultant on the digital side.
 
 ### [THE ECONOMIST](http://www.economist.com) JULY 2012 - PRESENT
 
