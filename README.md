@@ -68,7 +68,7 @@ and I use a scripted tmux setup to boost productivty. I grew up on Solaris and a
 ## DATABASES
 
 I reach beyond ORMs (Active Record, Doctrine et al) to squeeze as much power and efficiency from the databases that back many of the
-applications I use and build and am no afraid of SQL. I also have some experience with the NoSQL breed and am dipping into Postgres.
+applications I use and build and am not afraid of SQL. I also have some experience with the NoSQL breed and am dipping into Postgres.
 
 ## MODERN JAVASCRIPT AND CSS
 
