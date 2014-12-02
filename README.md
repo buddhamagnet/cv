@@ -51,8 +51,7 @@ example being the handling of transitioning the Economist developer teams from t
 
 I pick up and apply new languages and frameworks fast, always keeping an eye on the bleeding edge, balanced with an
 understanding of the volatile and transient nature of many of the new and shiny toys. I make heavy use of Ruby and Rails (to which
-I have contributed), as well as many of the tools in that ecosystem, and have wide experience with PHP (Drupal and Symfony components).
-I prefer Ruby but am not a technical snob.
+I have contributed), as well as many of the tools in that ecosystem, and have wide experience with PHP (Drupal and Symfony components). I have also started porting some of the Economist API endpoints to [Go](http;//golang.org).
 
 ## HTTP AND THE WEB
 
