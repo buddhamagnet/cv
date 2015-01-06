@@ -38,7 +38,7 @@ Recent open source contributions:
 * [ruby](https://github.com/ruby/ruby/commit/71b6077a5354335f5f04b7e852a22b3290b9f528)
 * [ruby](https://github.com/ruby/ruby/commit/5f55e23f9c2feb774aaffde8c9e20213c7b97497)
 * [regularity - rb regex library](https://github.com/andrewberls/regularity/pull/2)
-* [draper - rb presenter library](https://github.com/drapergem/draper/graphs/contributors)
+* [draper - rb presenter library](https://github.com/drapergem/draper/commits?author=buddhamagnet)
 * [discourse - rails and ember forum](https://github.com/discourse/discourse)
 * [jumpstartlabs](https://github.com/JumpstartLab/curriculum/commit/2f6a26e4f62b9cd12e51d6d68758777d87f3af3d)
 * [railsgirls](https://github.com/railsgirlslondon/railsgirls-london/contributors)
