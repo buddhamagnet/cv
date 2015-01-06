@@ -20,6 +20,13 @@ kicked off by the New York Times.
 The spattering of code on [gist.github.com](https://gist.github.com/buddhamagnet) will give
 you a snapshot of things I am working through right now, check [github](http://github.com/buddhamagnet) for more.
 
+Current/recent projects:
+
+* [gothimbl - go client for the thimbl network](https://github.com/buddhamagnet/gothimbl)
+* [badaboom - rails export tool for extracting audio from audioboom](https://github.com/buddhamagnet/badaboom)
+* [wildearth - refinery site for a remote production support company](https://github.com/buddhamagnet/wildearth)
+* [cardshark - rails app built in 40 minutes as a technical test](https://github.com/buddhamagnet/cardshark)
+
 Recent open source contributions:
 
 * [rails](http://contributors.rubyonrails.org/contributors/dave-goodchild/commits)
