@@ -46,7 +46,7 @@ Recent open source contributions:
 * [adn-cli(command line client for same)](https://github.com/adn-rb/adn-cli/graphs/contributors)
 * [split (ab testing gem)](https://github.com/andrew/split/graphs/contributors)
 * [resque - rb redis-backed queue](https://github.com/defunkt/resque/graphs/contributors)
-* [diaspora - decentralized social software](https://github.com/diaspora/diaspora/graphs/contributors)
+* [diaspora - decentralized social software](https://github.com/diaspora/diaspora/commits?author=buddhamagnet)
 * [rstat.us - decentralizised social software](https://github.com/hotsh/rstat.us/graphs/contributors)
 
 ## COMMUNICATION
