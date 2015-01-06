@@ -33,7 +33,7 @@ Recent open source contributions:
 * [rails api](https://github.com/rails-api/rails-api/pull/145#issuecomment-52991509)
 * [refinery CMS](https://github.com/refinery/refinerycms/pull/2649)
 * [sass documentation site](https://github.com/sass/sass-site/issues/86)
-* [ghost - js blogging engine](https://github.com/TryGhost/Ghost/graphs/contributors)
+* [ghost - js blogging engine](https://github.com/TryGhost/Ghost/commits?author=buddhamagnet)
 * [varnish cache](https://github.com/buddhamagnet/Varnish-Cache/commit/ed4a09fc77a71715ef642ff7302e1ea27aed4669)
 * [ruby](https://github.com/ruby/ruby/commit/71b6077a5354335f5f04b7e852a22b3290b9f528)
 * [ruby](https://github.com/ruby/ruby/commit/5f55e23f9c2feb774aaffde8c9e20213c7b97497)
