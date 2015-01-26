@@ -22,6 +22,7 @@ you a snapshot of things I am working through right now, check [github](http://g
 
 Current/recent projects:
 
+* [byron - first piece in a set of AWS tools in Go](git@github.com:buddhamagnet/byron.git)
 * [gothimbl - go client for the thimbl network](https://github.com/buddhamagnet/gothimbl)
 * [badaboom - rails export tool for extracting audio from audioboom](https://github.com/buddhamagnet/badaboom)
 * [wildearth - refinery site for a remote production support company](https://github.com/buddhamagnet/wildearth)
