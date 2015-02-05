@@ -32,6 +32,7 @@ Recent open source contributions:
 
 * [rails](http://contributors.rubyonrails.org/contributors/dave-goodchild/commits)
 * [rails api](https://github.com/rails-api/rails-api/pull/145#issuecomment-52991509)
+* [quartz (ruby-go interface gem)](https://github.com/DavidHuie/quartz/graphs/contributors)
 * [refinery CMS](https://github.com/refinery/refinerycms/pull/2649)
 * [sass documentation site](https://github.com/sass/sass-site/issues/86)
 * [ghost - js blogging engine](https://github.com/TryGhost/Ghost/commits?author=buddhamagnet)
