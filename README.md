@@ -9,7 +9,7 @@ and [The Economist](http://economist.com).
 
 ## COMMUNITY
 
-I love open source!
+I love open source! And I am increasingly drawn to exciting developments on the back end (i.e. Go) and front end (React, Meteor, Angular). The monolith in the middle (Rails, Drupal etc) is becoming a little creaky for me.
 
 I was also one of the original creators of [rubyinthepub](http://www.joannageary.com/2010/05/13/ruby-in-the-pub-3/), a meet-up
 designed to put developers, journalists and writers in the same room to explore their
