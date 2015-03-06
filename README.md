@@ -60,8 +60,7 @@ example being the handling of transitioning the Economist developer teams from t
 
 I pick up and apply new languages and frameworks fast, always keeping an eye on the bleeding edge, balanced with an
 understanding of the volatile and transient nature of many of the new and shiny toys. I make heavy use of Ruby and Rails (to which
-I have contributed), as well as many of the tools in that ecosystem, and have wide experience with PHP (Drupal and Symfony components). I have also started porting some of the Economist API endpoints to [Go](http;//golang.org), as well as building a variety of internal tools and microservices in this fabulous little language.
-
+I have contributed), as well as many of the tools in that ecosystem, and have wide experience with PHP (Drupal and Symfony components). I have also built some internal tools in Go (cache purge tool, some AWS client programs, a configuration API) and started porting some of the Economist API endpoints to this great language.
 ## HTTP AND THE WEB
 
 My work at The Economist has involved a wholesale refactoring of the caching architecture at the HTTP level ([Varnish](https://www.varnish-cache.org/)) making me
