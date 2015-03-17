@@ -29,10 +29,10 @@ Current/recent projects:
 * [cardshark - rails app built in 40 minutes as a technical test](https://github.com/buddhamagnet/cardshark)
 
 Recent open source contributions:
-
+* [gods](https://github.com/emirpasic/gods/commit/4257bbbae30da5ae4fa1621734efb9ddd02d7fa4)
+* [quartz (ruby-go interface gem)](https://github.com/DavidHuie/quartz/graphs/contributors)
 * [rails](http://contributors.rubyonrails.org/contributors/dave-goodchild/commits)
 * [rails api](https://github.com/rails-api/rails-api/pull/145#issuecomment-52991509)
-* [quartz (ruby-go interface gem)](https://github.com/DavidHuie/quartz/graphs/contributors)
 * [refinery CMS](https://github.com/refinery/refinerycms/pull/2649)
 * [sass documentation site](https://github.com/sass/sass-site/issues/86)
 * [ghost - js blogging engine](https://github.com/TryGhost/Ghost/commits?author=buddhamagnet)
