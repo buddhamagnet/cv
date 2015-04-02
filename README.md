@@ -29,6 +29,7 @@ Current/recent projects:
 * [cardshark - rails app built in 40 minutes as a technical test](https://github.com/buddhamagnet/cardshark)
 
 Recent open source contributions:
+* [docker](https://github.com/docker/docker/pull/11823)
 * [gods](https://github.com/emirpasic/gods/commit/4257bbbae30da5ae4fa1621734efb9ddd02d7fa4)
 * [quartz (ruby-go interface gem)](https://github.com/DavidHuie/quartz/graphs/contributors)
 * [rails](http://contributors.rubyonrails.org/contributors/dave-goodchild/commits)
