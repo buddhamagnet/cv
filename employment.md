@@ -6,14 +6,18 @@ Designed and built a fully responsive site backed by [Refinery CMS](http://refin
 
 ### [THE ECONOMIST](http://www.economist.com) JULY 2012 - PRESENT
 
-Working with an varied and exciting technology stack (PHP for Drupal and Symfony, Ruby for Puppet, Capistrano, Compass/SASS and an 
-internal Rails application), Varnish, git, memcached, you name it.
+Working with an varied and exciting technology stack (PHP for Drupal and Symfony, Ruby for Puppet, Capistrano, Compass/SASS and an internal Rails application), Varnish, git, memcached, you name it.
 
 #### PROJECTS
 
 #### RAILS APPLICATION - ONGOING
 
-Providing support for a Rails application owned by [Digital News Agency](digitalnewsagency.com) (part of the Economist Group), including advising on upgrading from Rails 2.3.8 to 3 and then 3.1, building a robust test harness around the application and supporting ongoing development.
+Providing support for a Rails application owned by [Digital News Agency](digitalnewsagency.com) (part of the Economist Group), including advising on upgrading from Rails 2.3.8 to 3 and then 3.1, building a robust test harness around the application and supporting ongoing development. Also involved in building a set of tools in Ruby for use by the ops team.
+
+#### AWS MIGRATION - SHIPPED!
+
+Instrumental in assisting in the migration of The Economist stack onto Amazon. Touched all parts of the migration process, from consulting on migrating our services and packing configurations into Salt, adjusting the deployment process to cater for
+auto-scaling, normalising HTTP headers across the whole stack through Incapsula, through the Amazon ELBs, Varnish, web servers and applications. 
 
 #### THE JAVASCRIPT CAMPAIGN - ONGOING
 
