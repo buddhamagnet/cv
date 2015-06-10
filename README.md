@@ -32,6 +32,7 @@ Recent open source contributions:
 * [docker - code](https://github.com/docker/docker/commit/6fd8e485c85c4f8ca62578d0840bdeddc4cba151)
 * [docker - documentation](https://github.com/docker/docker/commit/5be5749d544702c5da37c8ab448b417daf13e297)
 * [docker - documentation](https://github.com/docker/docker/commit/53edce79f16816a165b5be9cd4ee05501c103c6f)
+* [godotenv](https://github.com/joho/godotenv/commit/443e926da0d793d3b3f32118b1e4ba52ada26503)
 * [gods](https://github.com/emirpasic/gods/commit/4257bbbae30da5ae4fa1621734efb9ddd02d7fa4)
 * [quartz (ruby-go interface gem)](https://github.com/DavidHuie/quartz/graphs/contributors)
 * [rails](http://contributors.rubyonrails.org/contributors/dave-goodchild/commits)
