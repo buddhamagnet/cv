@@ -10,6 +10,10 @@ Working with an varied and exciting technology stack (PHP for Drupal and Symfony
 
 #### PROJECTS
 
+#### MICROSERVICE ARCHITECTURE - ONGOING
+
+Instrumental in selling Go to the business and in the process of building out a suite of microservices to run in conjunction with an Enterprise Service Bus (Mulesoft). Services in Go are now being written on both sides of the pond.
+
 #### RAILS APPLICATION - ONGOING
 
 Providing support for a Rails application owned by [Digital News Agency](digitalnewsagency.com) (part of the Economist Group), including advising on upgrading from Rails 2.3.8 to 3 and then 3.1, building a robust test harness around the application and supporting ongoing development. Also involved in building a set of tools in Ruby for use by the ops team.
