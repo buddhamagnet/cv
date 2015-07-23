@@ -34,6 +34,7 @@ Current/recent projects:
 
 Recent open source contributions:
 * [ramlapi](https://github.com/EconomistDigitalSolutions/ramlapi)
+* [consul](https://github.com/hashicorp/consul/commit/c34bcb45c670af076846826ea72c436fbd0e2c35)
 * [docker - code](https://github.com/docker/docker/commit/6fd8e485c85c4f8ca62578d0840bdeddc4cba151)
 * [docker - documentation](https://github.com/docker/docker/commit/5be5749d544702c5da37c8ab448b417daf13e297)
 * [docker - documentation](https://github.com/docker/docker/commit/53edce79f16816a165b5be9cd4ee05501c103c6f)
