@@ -26,15 +26,15 @@ you a snapshot of things I am working through right now, check [github](http://g
 
 Current/recent projects:
 
-* [byron - first piece in a set of AWS tools in Go](https://github.com:buddhamagnet/byron.git)
+* [gq - worker queue package in go](https://github.com/buddhamagnet/gq)
+* [goberry - microservice template](https://github.com/EconomistDigitalSolutions/goberry)
+* [ramlapi - API plumbing driven by RAML](https://github.com/EconomistDigitalSolutions/ramlapi)
 * [gothimbl - go client for the thimbl network](https://github.com/buddhamagnet/gothimbl)
 * [badaboom - rails export tool for extracting audio from audioboom](https://github.com/buddhamagnet/badaboom)
 * [wildearth - refinery site for a remote production support company](https://github.com/buddhamagnet/wildearth)
 * [cardshark - rails app built in 40 minutes as a technical test](https://github.com/buddhamagnet/cardshark)
 
 Recent open source contributions:
-* [goberry - microservice template](https://github.com/EconomistDigitalSolutions/goberry)
-* [ramlapi - API plumbing driven by RAML](https://github.com/EconomistDigitalSolutions/ramlapi)
 * [consul](https://github.com/hashicorp/consul/commit/c34bcb45c670af076846826ea72c436fbd0e2c35)
 * [docker - code](https://github.com/docker/docker/commit/6fd8e485c85c4f8ca62578d0840bdeddc4cba151)
 * [docker - documentation](https://github.com/docker/docker/commit/5be5749d544702c5da37c8ab448b417daf13e297)
