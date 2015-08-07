@@ -26,6 +26,7 @@ you a snapshot of things I am working through right now, check [github](http://g
 
 Current/recent projects:
 
+* [tripper - circuitbreaker wrapper](https://github.com/buddhamagnet/tripper)
 * [gq - worker queue package in go](https://github.com/buddhamagnet/gq)
 * [goberry - microservice template](https://github.com/EconomistDigitalSolutions/goberry)
 * [ramlapi - API plumbing driven by RAML](https://github.com/EconomistDigitalSolutions/ramlapi)
