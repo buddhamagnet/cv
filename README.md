@@ -8,7 +8,7 @@ of cool startups, to large companies including [Sun Microsystems](http://sun.com
 and [The Economist](http://economist.com).
 
 Right now I am neck deep in some exciting projects at The Economist building out a microservice architecture in Go. Current
-works in progress include an integration service with Apple News, a cross reference service for exchanging canonical IDs relating to resources used by multiple services, integration with [Consul](https://www.consul.io/) for service discovery, and work on a content service to decouple data sources from front ends (alongside some devs from [ThoughtWorks](http://www.thoughtworks.com/).We are also looking at some of the components provided
+works in progress include an integration service with Apple News, a cross reference service for exchanging canonical IDs relating to resources used by multiple services, integration with [Consul](https://www.consul.io) for service discovery, and work on a content service to decouple data sources from front ends (alongside some devs from [ThoughtWorks](http://www.thoughtworks.com)).We are also looking at some of the components provided
 by [go-kit](https://github.com/go-kit/kit).
 
 Some of the code (complete and in progress) from the above has been open sourced:
