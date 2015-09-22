@@ -35,7 +35,7 @@ Current/recent projects:
 * [wildearth - refinery site for a remote production support company](https://github.com/buddhamagnet/wildearth)
 * [cardshark - rails app built in 40 minutes as a technical test](https://github.com/buddhamagnet/cardshark)
 
-Recent open source contributions:
+Open source contributions:
 * [godep](https://github.com/tools/godep/commits?author=buddhamagnet)
 * [gobundle](https://github.com/alecthomas/gobundle/graphs/contributors)
 * [consul](https://github.com/hashicorp/consul/commit/c34bcb45c670af076846826ea72c436fbd0e2c35)
