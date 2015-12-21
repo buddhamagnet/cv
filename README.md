@@ -24,6 +24,7 @@ The above projects have had a heavy devops flavour, and we worked closely with t
 
 Recent open source contributions to Go projects:
 
+* [gizmo (New York Times)](https://github.com/NYTimes/gizmo)
 * [godep](https://github.com/tools/godep/commits?author=buddhamagnet)
 * [caddy](https://github.com/mholt/caddy/commits?author=buddhamagnet)
 * [migrate](https://github.com/mattes/migrate/commits?author=buddhamagnet)
