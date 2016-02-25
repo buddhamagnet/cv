@@ -13,6 +13,7 @@ a suite of microservices and tools at The Economist. Projects at the Economist i
 * an ID forwarding service to allow services to refer to resources using canonical identifiers.
 * a service that pushes Economist content to the Apple News service.
 * a content service that decouples the content back end from a set of rich front ends (alongside some devs from [ThoughtWorks](http://www.thoughtworks.com)).
+* [vendorgodeps - migrate from godeps to vendor folder](https://github.com/prisamuel/vendorgodeps)
 * [goberry - microservice template](https://github.com/EconomistDigitalSolutions/goberry).
 * [ramlapi - API plumbing](https://github.com/EconomistDigitalSolutions/ramlapi).
 * [watchman - logging and metrics](https://github.com/EconomistDigitalSolutions/watchman)
