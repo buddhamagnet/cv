@@ -7,12 +7,21 @@ manner of organisations, from working as a single freelancer, through a number
 of cool startups, to large companies including [Sun Microsystems](http://sun.com)
 and [The Economist](http://economist.com).
 
-Right now I am neck deep in Go, contributing to open source projects and building out
-a suite of microservices and tools at The Economist. Projects at the Economist include:
+## MOST RECENT PROJECT
+
+Building out the first iteration of a distributed content platform at The Economist. Involved in all aspects of the project:
+
+* Building microservices in [Go](http://golang.org), including building the microservice template, mentoring team members in Go and building key components, some of which are now open source.
+* Working as a devops resource on an API gateway and caching architecture, using a suite of tools including [Salt](http://saltstack.com), [Nginx](https://www.nginx.com), [Openresty](https://openresty.org/en/), and [Varnish](https://www.varnish-software.com).
+* Assisting with implementing a continuous delivery pipeline with [Docker](https://www.docker.com/) and [Amazon ECS](https://aws.amazon.com/ecs/details/), initially using [GoCD](https://www.go.cd/) for the pipeline and transitioning to [AWS Code Pipeline](https://aws.amazon.com/codepipeline/).
+* Assisting with ensuring the whole stack was fully tested using Go's built-in testing package and developing a set of contract and integration tests.
+* Helping to build the service discovery layer, initially with [Consul](https://www.consul.io/) and transitioning to dynamic back ends in Nginx routing to AWS ELBs.
+* Documenting it all! 
+
+Other projects at the Economist included:
 
 * an ID forwarding service to allow services to refer to resources using canonical identifiers.
 * a service that pushes Economist content to the Apple News service.
-* a content service that decouples the content back end from a set of rich front ends (alongside some devs from [ThoughtWorks](http://www.thoughtworks.com)).
 * [vendorgodeps - migrate from godeps to vendor folder](https://github.com/prisamuel/vendorgodeps)
 * [goberry - microservice template](https://github.com/EconomistDigitalSolutions/goberry).
 * [ramlapi - API plumbing](https://github.com/EconomistDigitalSolutions/ramlapi).
@@ -20,8 +29,6 @@ a suite of microservices and tools at The Economist. Projects at the Economist i
 * [tripper - circuitbreaker wrapper](https://github.com/buddhamagnet/tripper).
 * [gq - worker queue package in go](https://github.com/buddhamagnet/gq)
 * [goconsul - simple service registration](https://github.com/buddhamagnet/goconsul)
-
-The above projects have had a heavy devops flavour, and we worked closely with the ops team with tools such as [docker](https://www.docker.com), [salt](http://saltstack.com), [jenkins](https://jenkins-ci.org), [codeship](https://codeship.com), and AWS to make it all happen.
 
 Recent open source contributions to Go projects:
 
