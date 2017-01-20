@@ -9,7 +9,13 @@ and [The Economist](http://economist.com).
 
 I am a poyglot programmer and am always investigating new languages, right now working my way through [Seven Languages In Seven Weeks](https://pragprog.com/book/btlang/seven-languages-in-seven-weeks) with a focus on the functional brigade (right now Scala and Clojure) with an admixture of Node which I needed to learn to work alongside our front end team. Find the code [here](https://github.com/buddhamagnet/seven).
 
-## MOST RECENT PROJECT
+## MOST RECENT PROJECTS
+
+### PEAK BI
+
+Hired by the cloud computing consultancy that worked with The Economist on providing AWS services and training to build a data product using [React](https://facebook.github.io/react/) on the front end and [Serverless](https://facebook.github.io/react/) and AWS on the back end.
+
+### THE ECONOMIST
 
 Building out the first iteration of a distributed content platform at The Economist. Involved in all aspects of the project:
 
