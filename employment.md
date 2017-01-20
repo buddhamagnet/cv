@@ -1,10 +1,14 @@
 ## [BACK TO CV](https://github.com/buddhamagnet/cv/blob/master/README.md)
 
+### [PEAK BI](http://www.peak.bi/) JANUARY 2016 - PRESENT
+
+Hired by the cloud computing consultancy that worked with The Economist on providing AWS services and training to build a data product using [React](https://facebook.github.io/react/) on the front end and [Serverless](https://facebook.github.io/react/) and AWS on the back end.
+
 ### [WILD EARTH PRODUCTIONS](http://wildearth.productions) OCTOBER 2014 - PRESENT
 
 Designed and built a fully responsive site backed by [Refinery CMS](http://refinerycms.com) for Wild Earth Productions, a new business specialising in remote location support for film, TV and advertising organisations. The brainchild of Jason Ingamells, owner of the [Woodland Ways](http://woodland-ways.co.uk) bushcraft and survival school and [Anders Brogaard](http://www.andersbrogaard.co.uk), globe-trotting commercial photographer. I am technical consultant on the digital side.
 
-### [THE ECONOMIST](http://www.economist.com) JULY 2012 - PRESENT
+### [THE ECONOMIST](http://www.economist.com) JULY 2012 - DECEMBER 2016
 
 Working with an varied and exciting technology stack (PHP for Drupal and Symfony, Ruby for Puppet, Capistrano, Compass/SASS and an internal Rails application), Varnish, git, memcached, you name it.
 
