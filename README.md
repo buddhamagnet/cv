@@ -13,7 +13,7 @@ I am a poyglot programmer and am always investigating new languages, right now w
 
 ### PEAK BI
 
-Hired by the cloud computing consultancy that worked with The Economist on providing AWS services and training to build a data product using [React](https://facebook.github.io/react/) on the front end and [Serverless](https://facebook.github.io/react/) and AWS on the back end.
+Hired by the cloud computing consultancy that worked with The Economist on providing AWS services and training to build a data product using [React](https://facebook.github.io/react/) and [Redux](http://redux.js.org/) on the front end and [Serverless](https://facebook.github.io/react/) and AWS on the back end.
 
 ### THE ECONOMIST
 
