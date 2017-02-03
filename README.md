@@ -2,7 +2,7 @@
 
 ## IN A NUTSHELL
 
-I am a developer with over a decade of experience working for all
+I am a developer with over a fifteen years of experience working for all
 manner of organisations, from working as a single freelancer, through a number
 of cool startups, to large companies including [Sun Microsystems](http://sun.com)
 and [The Economist](http://economist.com).
