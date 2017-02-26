@@ -7,7 +7,7 @@ manner of organisations, from working as a single freelancer, through a number
 of cool startups, to large companies including [Sun Microsystems](http://sun.com)
 and [The Economist](http://economist.com).
 
-BUZZORD ALERT: I am a poyglot full-stack programmer - in my current project I am making heavy use of [React](https://facebook.github.io/react/) and [Redux](http://redux.js.org/) and the previous project was a microservice archecuture build involving [Go](https://golang.org/) and AWS and a slew of cloud technologies. I'm fascinated by functional programming and reactive systems.
+BUZZWORD ALERT: I am a poyglot full-stack programmer - in my current project I am making heavy use of [React](https://facebook.github.io/react/) and [Redux](http://redux.js.org/) and the previous project was a microservice archecuture build involving [Go](https://golang.org/) and AWS and a slew of cloud technologies. I'm fascinated by functional programming and reactive systems.
 
 ## MOST RECENT PROJECTS
 
