@@ -2,22 +2,22 @@
 
 ## IN A NUTSHELL
 
-I am a developer with over a fifteen years of experience working for all
+I am a developer with over fifteen years of experience working for all
 manner of organisations, from working as a single freelancer, through a number
 of cool startups, to large companies including [Sun Microsystems](http://sun.com)
 and [The Economist](http://economist.com).
 
-BUZZWORD ALERT: I am a poyglot full-stack programmer - in my current project I am making heavy use of [React](https://facebook.github.io/react/) and [Redux](http://redux.js.org/) and the previous project was a microservice archecuture build involving [Go](https://golang.org/) and AWS and a slew of cloud technologies. I'm fascinated by functional programming and reactive systems.
+BUZZWORD ALERT: I am a poyglot full-stack programmer - in my current project I am making heavy use of [React](https://facebook.github.io/react/) and [Redux](http://redux.js.org/) and the previous project was a microservice architecture build involving [Go](https://golang.org/), AWS and a slew of cloud technologies. I'm fascinated by functional programming and reactive systems.
 
 ## MOST RECENT PROJECTS
 
 ### PEAK BI
 
-Hired by the cloud computing consultancy that worked with The Economist on providing AWS services and training to build a data product using [React](https://facebook.github.io/react/) and [Redux](http://redux.js.org/) on the front end and [Serverless](https://facebook.github.io/react/) and AWS on the back end.
+Hired by the cloud computing consultancy that worked with The Economist on providing AWS services and training to build a data product using [React](https://facebook.github.io/react/) and [Redux](http://redux.js.org/) on the front end and [Serverless](https://facebook.github.io/react/) and AWS on the back. The system provides a dynamic UI on top of Peak's data management offering allowing clients to log in and navigate a series of data-driven dashboards. 
 
 ### THE ECONOMIST
 
-Building out the first iteration of a distributed content platform at The Economist. Involved in all aspects of the project:
+Built out several iterations of a distributed content platform at The Economist. Involved in all aspects of the project:
 
 * Building microservices in [Go](http://golang.org), including building the microservice template, mentoring team members in Go and building key components, some of which are now open source.
 * Working alongside web products team to deliver the front end (using [Node](https://nodejs.org/en/) and [GraphQL](http://graphql.org/).
