@@ -23,10 +23,11 @@ Built out several iterations of a distributed content platform at The Economist.
 * Working alongside web products team to deliver the front end (using [Node](https://nodejs.org/en/) and [GraphQL](http://graphql.org/).
 * Working as a devops resource on an API gateway and caching architecture, using a suite of tools including [Salt](http://saltstack.com), [Nginx](https://www.nginx.com), [Openresty](https://openresty.org/en/), and [Varnish](https://www.varnish-software.com). Initial gateway code was managed via Salt then ported to Docker. 
 * Working with a variety of AWS tools in a devops capacity, including S3, SNS, Lambda, CloudFormation, SQS, Elastic Beanstalk, EC2, EC2 Container Service and VPC.
-* Built a development environment using Docker Compose which integrated all services and the API gateway locally. Later work also involved a fair amount of [Lua](https://www.lua.org/) to turn the gateway into a true powerhouse.
+* Builing a development environment using Docker Compose which integrated all services and the API gateway locally. Later work also involved a fair amount of [Lua](https://www.lua.org/) to turn the gateway into a true powerhouse.
 * Assisting with implementing a continuous delivery pipeline with [Docker](https://www.docker.com/) and [Amazon ECS](https://aws.amazon.com/ecs/details/), initially using [GoCD](https://www.go.cd/) for the pipeline and transitioning to [AWS Code Pipeline](https://aws.amazon.com/codepipeline/).
 * Assisting with ensuring the whole stack was fully tested using Go's built-in testing package and developing a set of contract and integration tests.
 * Helping to build the service discovery layer, initially with [Consul](https://www.consul.io/) and transitioning to dynamic back ends in Nginx routing to AWS ELBs.
+* Building Drupal modules for the back end to deliver content from the CMS to API consumers. Later iterations leverage S3 events and SNS to trigger downstream Go workers which transformed and stored raw content in the appropriate format (modified JSON for API consumers, Apple News format for the Apple News service, and later all content consolidated in a canonical data model influenced by [schema.org](http://schema.org).
 * In later stages of the project, worked on mechanisms to ensure content could still be served even if all the services and Drupal back end went down using Varnish write behind cache and storage of responses and content on S3.
 * Documenting it all! 
 
