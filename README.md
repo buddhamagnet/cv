@@ -46,7 +46,7 @@ Other projects at the Economist included:
 Recent open source contributions to Go projects:
 
 * [silk](https://github.com/matryer/silk/pull/19)
-* [gizmo (New York Times)](https://github.com/NYTimes/gizmo)
+* [gizmo (New York Times)](https://github.com/NYTimes/gizmo/commits?author=buddhamagnet)
 * [godep](https://github.com/tools/godep/commits?author=buddhamagnet)
 * [caddy](https://github.com/mholt/caddy/commits?author=buddhamagnet)
 * [migrate](https://github.com/mattes/migrate/commits?author=buddhamagnet)
