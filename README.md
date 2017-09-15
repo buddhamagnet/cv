@@ -11,6 +11,10 @@ BUZZWORD ALERT: I am a poyglot full-stack programmer - in my current project I a
 
 ## MOST RECENT PROJECTS
 
+### THE ECONOMIST
+
+Back at The Economist, this time straddling both front and back end teams armed with experience building out the microservice architecture with the platform team and a recent project making heavy use of React and Redux. Main remit was to act as a conduit between front end and back end as the former moved to consumption of a canonical data model built by the latter. Main work involved adapting GraphQL to work with the new model and helping to refactor the front end (Relay) parts accordinly. As of October 2017 I will be re-joining the content platform team full-time once again to work on wider intiatives.
+
 ### PEAK BI
 
 Hired by the cloud computing consultancy that worked with The Economist on providing AWS services and training to build a data product using [React](https://facebook.github.io/react/) and [Redux](http://redux.js.org/) on the front end and [Serverless](https://facebook.github.io/react/) and AWS on the back. The system provides a dynamic UI on top of Peak's data management offering allowing clients to log in and navigate a series of data-driven dashboards. 
