@@ -13,7 +13,7 @@ BUZZWORD ALERT: I am a poyglot full-stack programmer - in my current project I a
 
 ### THE ECONOMIST
 
-Back at The Economist, this time straddling both front and back end teams armed with experience building out the microservice architecture with the platform team and a recent project making heavy use of React and Redux. Main remit was to act as a conduit between front end and back end as the former moved to consumption of a canonical data model built by the latter. Main work involved adapting GraphQL to work with the new model and helping to refactor the front end (Relay) parts accordinly. As of October 2017 I will be re-joining the content platform team full-time once again to work on wider intiatives.
+Back at The Economist, this time straddling both front and back end teams armed with experience building out the microservice architecture (primarily in Go) with the platform team and a recent project making heavy use of React and Redux. Main remit was to act as a conduit between front end and back end as the former moved to consumption of a canonical data model built by the latter. Main work involved adapting GraphQL to work with the new model and helping to refactor the front end (Relay) parts accordinly. As of October 2017 I will be re-joining the content platform team full-time once again to work on wider intiatives.
 
 ### PEAK BI
 
