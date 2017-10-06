@@ -7,7 +7,7 @@ manner of organisations, from working as a single freelancer, through a number
 of cool startups, to large companies including [Sun Microsystems](http://sun.com)
 and [The Economist](http://economist.com).
 
-BUZZWORD ALERT: I am a poyglot full-stack programmer - right now I am making heavy use of [Go](https://golang.org) and my substantial time at The Economist means I have pretty much worked on every part of the stack. Technologies used in the projects listed below so far include [Go](https://golang.org), [React](https://reactjs.org/), [Redux](http://redux.js.org/), [GraphQL](http://graphql.org/), a slew of AWS technologies including Lambda, SQS, SNS, Code Pipeline, EC2, ECR (we use Docker), Elastic Beanstalk and S3.
+BUZZWORD ALERT: I am a poyglot full-stack programmer - right now I am making heavy use of [Go](https://golang.org) and my substantial time at The Economist means I have pretty much worked on every part of the stack. Technologies used in the projects listed below so far include [Go](https://golang.org), [React](https://reactjs.org/), [Redux](http://redux.js.org/), [GraphQL](http://graphql.org/), a slew of AWS technologies including ElasticSearch, Lambda, SQS, SNS, Code Pipeline, EC2, ECR (we use Docker), Elastic Beanstalk and S3.
 
 ## MOST RECENT PROJECTS
 
