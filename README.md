@@ -89,7 +89,9 @@ Open source contributions and projects outside Go:
 * [diaspora - decentralized social software](https://github.com/diaspora/diaspora/commits?author=buddhamagnet)
 * [rstat.us - decentralizised social software](https://github.com/hotsh/rstat.us/graphs/contributors)
 
-## COMMUNITY
+## COMMUNITY AND EDUCATION
+
+I'm a big believer in sharing the love and have delivered training sessions at The Economist and am currently helping with the build and maintenance of [Greater Commons](https://greatercommons.com/), a course platform for developers. [Here's an example](https://www.youtube.com/watch?v=HdMmLQB8ZWE) of a session on Varnish testing I delivered for The Economist.
 
 I was one of the original creators of [rubyinthepub](http://www.joannageary.com/2010/05/13/ruby-in-the-pub-3/), a meet-up
 designed to put developers, journalists and writers in the same room to explore their
