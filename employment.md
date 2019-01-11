@@ -1,12 +1,16 @@
 ## [BACK TO CV](https://github.com/buddhamagnet/cv/blob/master/README.md)
 
-### [THE ECONOMIST](http://www.peak.bi/) MAY 2017 - PRESENT
+### [THE ECONOMIST](http://www.economist.com/) OCT 2017 - PRESENT
 
-Back to The Economist, this time to work on the front end. My combined time at The Economist now covers the whole stack, from building Drupal modules for the back end CMS, to designing APIs and building microservices in Go, to working with [React](https://facebook.github.io/react/) and [Redux](http://redux.js.org/) on the front end.
+Technical lead, Content Platform.
+
+### [THE ECONOMIST](http://www.economist.com/) MAY 2017 - PRESENT
+
+Back at The Economist, this time straddling both front and back end teams armed with experience building out the microservice architecture (primarily in Go) with the platform team and a recent project making heavy use of React and Redux. Main remit was to act as a conduit between front end and back end as the former moved to consumption of a canonical data model built by the latter. Main work involved adapting GraphQL to work with the new model and helping to refactor the front end (Relay) parts accordinly. As of October 2017 I will be re-joining the content platform team full-time once again to work on wider intiatives.
 
 ### [PEAK BI](http://www.peak.bi/) JANUARY 2016 - APRIL 2017
 
-Hired by the cloud computing consultancy that worked with The Economist on providing AWS services and training to build a data product using [React](https://facebook.github.io/react/) on the front end and [Serverless](https://facebook.github.io/react/) and AWS on the back end.
+Hired by the cloud computing consultancy that worked with The Economist on providing AWS services and training to build a data product using [React](https://facebook.github.io/react/) on the front end and [Serverless](https://serverless.com/) and AWS on the back end.
 
 ### [WILD EARTH PRODUCTIONS](http://wildearth.productions) OCTOBER 2014 - FEBRUARY 2015
 

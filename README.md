@@ -2,18 +2,22 @@
 
 ## IN A NUTSHELL
 
-I am a developer with over fifteen years of experience working for all
+I am a developer with nearly 20 years of experience working for all
 manner of organisations, from working as a single freelancer, through a number
-of cool startups, to large companies including [Sun Microsystems](http://sun.com)
-and [The Economist](http://economist.com).
+of startups and consultancies, to large companies including [Sun Microsystems](http://sun.com) and [The Economist](http://economist.com).
 
-BUZZWORD ALERT: I am a poyglot full-stack programmer - right now I am making heavy use of [Go](https://golang.org) and moving into [Elixir](https://elixir-lang.org/). In my substantial time at The Economist means I have pretty much worked on every part of the stack. Technologies used in the projects listed below so far include [Go](https://golang.org), [React](https://reactjs.org/), [Redux](http://redux.js.org/), [GraphQL](http://graphql.org/), a slew of AWS technologies including ElasticSearch, Lambda, SQS, SNS, Code Pipeline, EC2, ECR (we use Docker), Elastic Beanstalk and S3.
+Primarily a back end developer, I can read and debug C, have been working with [Go](https://golang.org) for around three years, and make heavy use of [Python] and [bash] in day to day development tasks. I did a fair amount of [Ruby] in previous
+projects, and recent work has involved use of [Lua], primarily in [Openresty]. I am 
+also comfortable, if less than happy, to write Javascript and have both worked on front end teams utilising [React](https://reactjs.org/) and [Redux](http://redux.js.org/), as well as developing in [GraphQL](http://graphql.org/).
+
+
+I am also a cloud native, primarily working with AWS and serverless with a large stack of technologies including ElasticSearch, Varnish, Nginx, Lambda, SQS, SNS, EC2, Docker, and S3.
 
 ## MOST RECENT PROJECTS
 
 ### THE ECONOMIST
 
-Back at The Economist, this time straddling both front and back end teams armed with experience building out the microservice architecture (primarily in Go) with the platform team and a recent project making heavy use of React and Redux. Main remit was to act as a conduit between front end and back end as the former moved to consumption of a canonical data model built by the latter. Main work involved adapting GraphQL to work with the new model and helping to refactor the front end (Relay) parts accordinly. As of October 2017 I will be re-joining the content platform team full-time once again to work on wider intiatives.
+Currently back on the Content Platform as tech lead, right now migrating the initial fleet of worker services from Elastic Beanstalk worker environments to AWS Lambda and serverless.
 
 ### PEAK BI
 
