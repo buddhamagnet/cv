@@ -104,6 +104,8 @@ common space and collaborate on projects. This small event has since transformed
 the UK arm of [Hackshackers](http://meetuplondon.hackshackers.com/), an event originally
 kicked off by the New York Times.
 
+I am also now giving some of my time as a mentor on the Go track at [exercism][https://exercism.io].
+
 ## [WHERE HAVE I BEEN?](https://github.com/buddhamagnet/cv/blob/master/employment.md)
 
 ## [COULD YOU WORK WITH ME?](https://github.com/buddhamagnet/cv/blob/master/me.md)
