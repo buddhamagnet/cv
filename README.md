@@ -6,9 +6,7 @@ I am a developer with nearly 20 years of experience working for all
 manner of organisations, from working as a single freelancer, through a number
 of startups and consultancies, to large companies including [Sun Microsystems](http://sun.com) and [The Economist](http://economist.com).
 
-Primarily a back end developer, I can read and debug C, have been working with [Go](https://golang.org) for around three years, and make heavy use of Python and bash in day to day development tasks. I did a fair amount of [Ruby] in previous
-projects, and recent work has involved use of [Lua], primarily in [Openresty]. I am 
-also comfortable, if less than happy, to write Javascript and have both worked on front end teams utilising [React](https://reactjs.org/) and [Redux](http://redux.js.org/), as well as developing in [GraphQL](http://graphql.org/).
+Primarily a back end developer, I can read and debug C, have been working with [Go](https://golang.org) for around three years, and make heavy use of Python and bash in day to day development tasks. I did a fair amount of Ruby in previous projects, and recent work has involved use of Lua, primarily in Openresty. I am also comfortable writing Javascript and have both worked on front end teams utilising [React](https://reactjs.org/) and [Redux](http://redux.js.org/), as well as developing in [GraphQL](http://graphql.org/).
 
 I am deep into [Elixir](https://elixir-lang.org/) right now as a big fan of functional programming.
 
