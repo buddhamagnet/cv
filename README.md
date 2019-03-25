@@ -52,6 +52,7 @@ Other projects at the Economist included:
 
 Recent open source contributions to Go projects:
 
+* [bluemonday](https://github.com/microcosm-cc/bluemonday/commits?author=buddhamagnet)
 * [silk](https://github.com/matryer/silk/pull/19)
 * [gizmo (New York Times)](https://github.com/NYTimes/gizmo/commits?author=buddhamagnet)
 * [godep](https://github.com/tools/godep/commits?author=buddhamagnet)
