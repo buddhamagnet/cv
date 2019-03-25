@@ -18,7 +18,7 @@ I am also a cloud native, primarily working with AWS and serverless with a large
 
 ### THE ECONOMIST
 
-Currently back on the Content Platform as tech lead, right now migrating the initial fleet of worker services from Elastic Beanstalk worker environments to AWS Lambda and serverless.
+Currently back on the Content Platform as tech lead, right now migrating the initial fleet of worker services from Elastic Beanstalk worker environments to AWS Lambda and serverless. Worked on the entire stack, including the above mentioned workers (Go), a subset of workers written in ES6 JavaScript, the GraphQL layer that sits in front of our fleet, our gateway layer which comprises Nginx (Openresty), Varnish and Lua, and our Elasticsearch back end, including working out a way to reindex with zero downtime.
 
 ### PEAK BI
 
@@ -96,7 +96,7 @@ Open source contributions and projects outside Go:
 
 ## COMMUNITY AND EDUCATION
 
-I'm a big believer in sharing the love and have delivered training sessions at The Economist and am currently helping with the build and maintenance of [Greater Commons](https://greatercommons.com/), a course platform for developers. [Here's an example](https://www.youtube.com/watch?v=HdMmLQB8ZWE) of a session on Varnish testing I delivered for The Economist.
+I'm a big believer in sharing the love and have delivered training sessions at The Economist and am currently helping with the build and maintenance of [Greater Commons](https://greatercommons.com/), a course platform for developers. I am also working with Todd McLeod to build some Udemy courses on Go, and was intrumental in bringing Bill Kennedy in for training sessions. [Here's an example](https://www.youtube.com/watch?v=HdMmLQB8ZWE) of a session on Varnish testing I delivered for The Economist.
 
 I was one of the original creators of [rubyinthepub](http://www.joannageary.com/2010/05/13/ruby-in-the-pub-3/), a meet-up
 designed to put developers, journalists and writers in the same room to explore their
