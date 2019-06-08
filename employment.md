@@ -2,11 +2,11 @@
 
 ### [THE ECONOMIST](http://www.economist.com/) OCT 2017 - PRESENT
 
-Technical lead, Content Platform.
+Technical lead, Content Platform. Heading up a distributed team of eight engineers.
 
 ### [THE ECONOMIST](http://www.economist.com/) MAY 2017 - PRESENT
 
-Back at The Economist, this time straddling both front and back end teams armed with experience building out the microservice architecture (primarily in Go) with the platform team and a recent project making heavy use of React and Redux. Main remit was to act as a conduit between front end and back end as the former moved to consumption of a canonical data model built by the latter. Main work involved adapting GraphQL to work with the new model and helping to refactor the front end (Relay) parts accordinly. As of October 2017 I will be re-joining the content platform team full-time once again to work on wider intiatives.
+Back at The Economist, this time straddling both front and back end teams armed with experience building out the microservice architecture (primarily in Go) with the platform team and a recent project making heavy use of React and Redux. Main remit was to act as a conduit between front end and back end as the former moved to consumption of a canonical data model built by the latter. Main work involved adapting GraphQL to work with the new model and helping to refactor the front end (Relay) parts accordinly. As of October 2017 I will be re-joining the content platform team full-time once again  to work on wider intiatives.
 
 ### [PEAK BI](http://www.peak.bi/) JANUARY 2016 - APRIL 2017
 
@@ -14,7 +14,7 @@ Hired by the cloud computing consultancy that worked with The Economist on provi
 
 ### [WILD EARTH PRODUCTIONS](http://wildearth.productions) OCTOBER 2014 - FEBRUARY 2015
 
-Designed and built a fully responsive site backed by [Refinery CMS](http://refinerycms.com) for Wild Earth Productions, a new business specialising in remote location support for film, TV and advertising organisations. The brainchild of Jason Ingamells, owner of the [Woodland Ways](http://woodland-ways.co.uk) bushcraft and survival school and [Anders Brogaard](http://www.andersbrogaard.co.uk), globe-trotting commercial photographer. I am technical consultant on the digital side.
+Project completed in parallel with other consulting gigs. Designed and built a fully responsive site backed by [Refinery CMS](http://refinerycms.com) for Wild Earth Productions, a new business specialising in remote location support for film, TV and advertising organisations. The brainchild of Jason Ingamells, owner of the [Woodland Ways](http://woodland-ways.co.uk) bushcraft and survival school and [Anders Brogaard](http://www.andersbrogaard.co.uk), globe-trotting commercial photographer. I am technical consultant on the digital side.
 
 ### [THE ECONOMIST](http://www.economist.com) JULY 2012 - DECEMBER 2016
 
@@ -35,7 +35,7 @@ Providing support for a Rails application owned by [Digital News Agency](digital
 Instrumental in assisting in the migration of The Economist stack onto Amazon. Touched all parts of the migration process, from consulting on migrating our services and packing configurations into Salt, adjusting the deployment process to cater for
 auto-scaling, normalising HTTP headers across the whole stack through Incapsula, through the Amazon ELBs, Varnish, web servers and applications. 
 
-#### THE JAVASCRIPT CAMPAIGN - ONGOING
+#### THE JAVASCRIPT CAMPAIGN - SHIPPED!
 
 Heavily involved in an ongoing project to bring Javascript development at The Economist into the 21st century (toolset involved:
 Bower, Grunt, Yeoman, Jasmine, Qunit, Node and Express).
@@ -44,7 +44,7 @@ Bower, Grunt, Yeoman, Jasmine, Qunit, Node and Express).
 
 Sole developer on a project to integrate our subscription and reconciliation services into Google Play, built using a back end composed of Symfony components and exposing a JSON API. Involves working closely with the team of Java developers tasked with working on the Economist Android app.
 
-#### DECOUPLING THE ECONOMIST - IN PROGRESS
+#### DECOUPLING THE ECONOMIST - SHIPPED!
 
 In the midst of a vast project the end goal of which is to deliver a service-oriented architecture for The Economist, which is
 essentially a monolithic Drupal installation. Work covers all aspects of this mammoth undertaking, from building of initial feature lists
@@ -101,7 +101,7 @@ Judah Anthony, lead developer, New York office.
 
 Peter Arato, Drupal developer.
 
-### [UNBOUND](http://unbound.co.uk) JUNE 2011 - JUNE 2012
+### [UNBOUND](http://unbound.co.uk) JULY 2011 - JUNE 2012
 
 Freelancing for a UK-based startup (Rails 3 platform) created by the QI research team. Unbound provides a crowd-funded publishing platform for
 writers, both published and unknown, and has garnered an impressive amount of press over the last few months:
@@ -122,7 +122,7 @@ brought in to assist in refactoring the original codebase but soon jumped in ful
 
 Xander Cansell, product owner.
 
-### [LOVEFRESH](http://lovefre.sh) AUGUST 2010 - JUNE 2011
+### [LOVEFRESH](http://lovefre.sh) JUNE 2011 - JULY 2011
 
 Worked as a freelancer for a UK-based startup on the build of a social food application. I pitched in on the Rails side (Rails 2.3.8, subsequently updated to 3), working on features, tests and refactoring. 
 
@@ -138,7 +138,7 @@ Freelance developer in London-based digital team looking after [Cartoon Network]
 
 Mike King, web designer.
 
-### [COMIC RELIEF](http://comicrelief.com) SEPTEMBER 2009 - JULY 20102
+### [COMIC RELIEF](http://comicrelief.com) SEPTEMBER 2009 - JULY 2010
 
 Worked on the [Sport Relief](http://sportrelief.com) 2010 campaign as well as the Comic Relief and [Red Nose Day](http://rednoseday.com) sites. Main remit was to build custom Drupal modules for the sites. Also rebuilt the existing web services back end for Sport Relief end using [Zend Framework](http://zend.com) and ported this to Comic Relief. 
 
@@ -148,7 +148,7 @@ My work at Comic Relief was varied, touching on back end work (writing back end 
 
 Paul Wood, senior designer.
 
-### [JELLYFISH](http://jellyfish.co.uk) MAY 2007 - SEPTEMBER 2009
+### [JELLYFISH](http://jellyfish.co.uk) MAY 2004 - SEPTEMBER 2009
 
 Worked as senior developer on a  fast-moving PHP development team comprising 12 developers, three seniors, [one lead](http://blog.mikepearce.net), a DBA, QA tester and manager. I was been involved in a number of projects, starting with converting the existing campaign site templates to standards-compliant tableless design, to playing a large part in rebuilding the entire PHP4 platform from scratch and delivering a PHP5 platform – team used the scrum agile methodology, version control and daily standup meetings to adapt fast to changing requirements. My domain included building a centralized signup process for all campaign sites, re-engineering the fulfillment system and redesigning the product module as a web service. 
 
