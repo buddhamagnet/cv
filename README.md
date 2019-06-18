@@ -10,6 +10,8 @@ Primarily a back end developer (started with Java back in the 90s), I have been 
 
 I am deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clojure.org/) right now as a big fan of functional programming.
 
+I am pursuing many of the [Exercism](https://exercism.io/profiles/buddhamagnet) tracks and am acting as a mentor on the Go and Elixir tracks.
+
 I am also a cloud native, primarily working with AWS and serverless with a large stack of technologies including ElasticSearch, Varnish, Nginx, Lambda, SQS, SNS, EC2, Docker, and S3.
 
 ## MOST RECENT PROJECTS
