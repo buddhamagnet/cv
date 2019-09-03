@@ -6,13 +6,18 @@ I am a developer with 20 years of experience working for all
 manner of organisations, from working as a single freelancer, through a number
 of startups and consultancies, to large companies including [Sun Microsystems](http://sun.com) and [The Economist](http://economist.com).
 
-Primarily a back end developer (started with Java back in the 90s), I have been working with [Go](https://golang.org) for around three years, and make heavy use of Python and bash in day to day development tasks. I did a fair amount of Ruby in previous projects (including contributing to Rails), and recent work has involved use of Lua, primarily in Openresty. I also write a lot of Javascript and have both worked on front end teams utilising [React](https://reactjs.org/) and [Redux](http://redux.js.org/), as well as developing in [GraphQL](http://graphql.org/) and building AWS Lambda functions for event-driven systems.
+## SKILLSET
 
-I am deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clojure.org/) right now as a big fan of functional programming.
+* **Go**: working with Go for nearly 3 years now, building out an event-driven distributed content platform at The Economist. Instrumental in bringing the language to the organization, securing training with Bill Kennedy and mentoring new hires. Outside The Economist, contributed to numerous Go OSS projects and open sourced some libraries we built in house. Also work closely with [Todd McLeod](https://www.udemy.com/course/learn-how-to-code/#instructor-1), who created the best-selling Go courses on Udemy, on his [social education platform](https://greatercommons.com/). 
+* Example OSS contributions to [bluemonday](https://github.com/microcosm-cc/bluemonday/commits?author=buddhamagnet) and [Docker](https://github.com/docker/docker/commit/6fd8e485c85c4f8ca62578d0840bdeddc4cba151). Example of a library open sourced from The Economist - [ramlapi](https://github.com/EconomistDigitalSolutions/ramlapi).
+* **JavaScript**: fully proficient in ES6 and have both worked directly on the Ecconomist front end team and providing support from the content platform. Technologies included [React](https://reactjs.org/) and [Redux](http://redux.js.org/), as well as developing in [GraphQL](http://graphql.org/) and building AWS Lambda functions for event-driven systems.
+* **Python**: conversant with Python 3, which is used for a fleet of Lambda functions at The Economist.
+* **Ruby**: not so much these days, but did a large amount of Ruby and Rails back in the day, including contributions to the [Rails framework itself](http://contributors.rubyonrails.org/contributors/dave-goodchild/commits).
+* **Cloud and back end**: I am also a cloud native, primarily working with AWS and serverless with a large stack of technologies including bash, ElasticSearch, Varnish, Nginx, Lua, Lambda, EC2, SQS, SNS, Docker, and S3.
 
-I am pursuing many of the [Exercism](https://exercism.io/profiles/buddhamagnet) tracks and am acting as a mentor on the Go and Elixir tracks.
+I am also deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clojure.org/) right now as a big fan of functional programming.
 
-I am also a cloud native, primarily working with AWS and serverless with a large stack of technologies including ElasticSearch, Varnish, Nginx, Lambda, SQS, SNS, EC2, Docker, and S3.
+I am also pursuing many of the [Exercism](https://exercism.io/profiles/buddhamagnet) tracks and am acting as a mentor on the Go track.
 
 ## MOST RECENT PROJECTS
 
@@ -23,8 +28,6 @@ Currently back on the Content Platform as tech lead, right now migrating the ini
 > "It is my pleasure to write a recommendation for Dave Goodchild whom I have had the fortune of working with at The Economist since I joined end of February 2015 as platform architect for the content  and the data management platforms. Dave Goodchild was a senior engineer on the project to revamp the content platform into a micro-service based, message driven, reactive system. He played a key role to enable us to deliver the modernization of the core content stack of The Economist on time and on budget. It is rare to come across a standout talent like Dave Goodchild who is an amazing Golang developer and any other programming language he is asked to use, regardless if it is php, javascript, clojure or configuring nginx or varnish. He is able to quickly capture the entire end-to-end picture of a problem or a feature, devise a technical solution in record time, then implement & maintain it. His deep understanding of functional reactive programming concepts enabled to build up the new containerized system based on Docker with the back-end micro-services written in Golang and front-end based on GraphQL and ReactJS running completely optimized for Amazon Web Services (AWS), driven fully by a Continuous Delivery (CD) pipeline. It's a pity that he decided to leave after contracting about four years for The Economist. At least I've learnt a great deal working with him and I'm happy that he remains as a very good personal friend who I can deeply recommend as a colleague."
 
 [Artur Ortega](https://www.linkedin.com/in/arturortega/?originalSubdomain=uk), Platform Architect, The Economist (previously Telegraph and Yahoo).
-
-
 
 ### PEAK BI
 
