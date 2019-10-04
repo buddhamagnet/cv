@@ -29,13 +29,7 @@ Currently back on the Content Platform as tech lead, right now migrating the ini
 
 [Artur Ortega](https://www.linkedin.com/in/arturortega/?originalSubdomain=uk), Platform Architect, The Economist (previously Telegraph and Yahoo).
 
-> "Dave is a level headed very highly skilled engineer.  
-
-He has an uncanny ability to break down even the most complex task and simplify it to the point that everybody on the team can contribute.  He cuts through the noise and encourages everybody to see the core value proposition.
-
-He takes ownership of any task given to him or tangential to him and ensures it gets done to the highest quality. It doesn't matter if it's greenfield or legacy, unfamiliar tech or a well trodden road; Dave will roll up his sleeves and get it done.
-
-He has deep knowledge of Golang and high scale AWS cloud architectures. He's a true polyglot engineer and will cut code in the appropriate tech to get the job done."
+> "Dave is a level headed very highly skilled engineer. He has an uncanny ability to break down even the most complex task and simplify it to the point that everybody on the team can contribute.  He cuts through the noise and encourages everybody to see the core value proposition. He takes ownership of any task given to him or tangential to him and ensures it gets done to the highest quality. It doesn't matter if it's greenfield or legacy, unfamiliar tech or a well trodden road; Dave will roll up his sleeves and get it done. He has deep knowledge of Golang and high scale AWS cloud architectures. He's a true polyglot engineer and will cut code in the appropriate tech to get the job done."
 
 [Juhjar Singh](https://www.linkedin.com/in/jujhar/), Devops Practice Lead, The Economist.
 
