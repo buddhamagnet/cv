@@ -8,7 +8,8 @@ of startups and consultancies, to large companies including [Sun Microsystems](h
 
 ## SKILLSET
 
-* **Go**: working with Go for nearly 3 years now, building out an event-driven distributed content platform at The Economist. Instrumental in bringing the language to the organization, securing training with Bill Kennedy and mentoring new hires. Outside The Economist, contributed to numerous Go OSS projects and open sourced some libraries we built in house. Also work closely with [Todd McLeod](https://www.udemy.com/course/learn-how-to-code/#instructor-1), who created the best-selling Go courses on Udemy, on his [social education platform](https://greatercommons.com/). 
+* **Go**: working with Go for nearly 3 years now, building out an event-driven distributed content platform at The Economist. Instrumental in bringing the language to the organization, securing training with [Bill Kennedy](https://www.linkedin.com/in/william-kennedy-5b318778/) and mentoring new hires. Outside The Economist, contributed to numerous Go OSS projects and open sourced some libraries we built in house. Also work closely with [Todd McLeod](https://www.udemy.com/course/learn-how-to-code/#instructor-1), who created the best-selling Go courses on Udemy, on his [social education platform](https://greatercommons.com/). Bill was kind enough to say this about me: 
+> "In the early days when I was learning and teaching Go, I had the pleasure of meeting Dave. Dave was writing Go and introducing it into his projects as an early adopter. Dave was there to help me as well since he had experience I didn't have yet. If you are looking for a top notch engineer with the ability to lead/manage teams and projects, Dave is someone you need to consider."
 * Example OSS contributions to Go projects: [bluemonday](https://github.com/microcosm-cc/bluemonday/commits?author=buddhamagnet), [Docker](https://github.com/docker/docker/commit/6fd8e485c85c4f8ca62578d0840bdeddc4cba151), [caddy](https://github.com/caddyserver/caddy/commits?author=buddhamagnet) and [godep](https://github.com/tools/godep/commits?author=buddhamagnet). Example of libraries built by myself and open sourced from The Economist - [cloudcheck](https://github.com/EconomistDigitalSolutions/cloudcheck) and [ramlapi](https://github.com/EconomistDigitalSolutions/ramlapi).
 * **JavaScript**: fully proficient in ES6 and have both worked directly on the Economist front end team and providing support from the Content Platform. Technologies included [React](https://reactjs.org/), [Redux](http://redux.js.org/) and [Vue](https://vuejs.org/), as well as working with [GraphQL](http://graphql.org/) and the [Apollo platform](https://www.apollographql.com/) and building AWS Lambda functions for event-driven systems.
 * **Python**: conversant with Python 3, which is used for a fleet of Lambda functions at The Economist.
@@ -18,8 +19,6 @@ of startups and consultancies, to large companies including [Sun Microsystems](h
 * **Logging and metrics**: Extensive use of a slew of technologies to gain maximum visibilty into our software, including [Datadog](https://www.datadoghq.com/), [Logz.io](https://logz.io), CloudWatch, AWS X-Ray, Kibana, [Grafana](https://grafana.com/) and [Prometheus](https://prometheus.io/).
 
 I am also deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clojure.org/) right now as a big fan of functional programming. Currently porting a [node GraphQL server to Clojure](https://github.com/buddhamagnet/clj-graphql).
-
-I am also pursuing many of the [Exercism](https://exercism.io/profiles/buddhamagnet) tracks in multiple languages at the same time. 
 
 ## MOST RECENT PROJECTS
 
