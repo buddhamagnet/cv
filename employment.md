@@ -1,6 +1,10 @@
 ## [BACK TO CV](https://github.com/buddhamagnet/cv/blob/master/README.md)
 
-### [THE ECONOMIST](http://www.economist.com/) OCT 2017 - PRESENT
+### [DIRECT LINE](http://www.economist.com/) FEB 2020 - PRESENT
+
+Senior engineer, fraud department.
+
+### [THE ECONOMIST](http://www.economist.com/) OCT 2017 - JAN 2020
 
 Technical lead, Content Platform. Heading up a distributed team of eight engineers.
 
