@@ -28,7 +28,7 @@ Working with an varied and exciting technology stack (PHP for Drupal and Symfony
 
 #### MICROSERVICE ARCHITECTURE - SHIPPED!
 
-Instrumental in selling Go to the business and in the process of building out a suite of microservices to run in conjunction with an Enterprise Service Bus (Mulesoft). Services in Go are now being written on both sides of the pond. The project, which is an ongoing evolution, comprised building out a reactive architecture using Go and AWS (S3, SQS, SNS, EC2, EC2 Container Servic and Lambda).
+Instrumental in selling Go to the business and in the process of building out a suite of microservices to run in conjunction with an Enterprise Service Bus (Mulesoft). Services in Go are now being written on both sides of the pond. The project, which is an ongoing evolution, comprised building out a reactive architecture using Go and AWS (S3, SQS, SNS, EC2, EC2 Container Service and Lambda).
 
 #### RAILS APPLICATION - SHIPPED!
 
