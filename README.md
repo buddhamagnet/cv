@@ -4,6 +4,10 @@
 
 I am a full stack engineer with over 20 years of experience working for all manner of organisations, from working as a single freelancer, through a number of startups and consultancies, to large companies including [Sun Microsystems](http://sun.com) and [The Economist](http://economist.com). I am passionate about open source and past contributions can be found below the employment history below.
 
+## MINDSET
+
+I believe mindset trumps technology and have a passionate interest in collaboration, mentoring, upskilling and communication. I think shipped and working software is better than perfect software and am fully possessed of a devops mindset, encouraging ownership of all aspects of the development lifecycle.
+
 ## SKILLSET
 
 - **Cloud**: Fully conversant with AWS, making heavy use of many services as detailed below and pushing the envelope in many cases. Also possessed of a devops mindset, instrumental in building CICD flows for teams and pushing ownership of the full software development lifeycle to engineers.
