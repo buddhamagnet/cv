@@ -10,7 +10,7 @@ I believe mindset trumps technology and have a passionate interest in collaborat
 
 ## SKILLSET
 
-- **Cloud**: Fully conversant with AWS, making heavy use of many services as detailed below and pushing the envelope in many cases. Also possessed of a devops mindset, instrumental in building CICD flows for teams and pushing ownership of the full software development lifeycle to engineers. Recent project involved use of [Terraform](https://www.terraform.io/) as a replacement for Cloudformation. AWS services used in anger across multiple projects include API Gateway, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch, Cognito, CodeBuild, CodePipeline, DynamoDB, EC2, ECS, ECR, EFS Elasticache, Elastic Beanstalk, Elasticsearch, ELB, Glue (building ETL pipelines), IAM, KMS, Lambda, RDS (Aurora/Postgres), Route 53, S3, SAM, Secrets Manager, SNS (including message filterinf), SQS, Step Functions, VPC and X-Ray.
+- **Cloud**: Fully conversant with AWS and GCP, making heavy use of many services as detailed below and pushing the envelope in many cases. Also possessed of a devops mindset, instrumental in building CICD flows for teams and pushing ownership of the full software development lifeycle to engineers. Recent projects involved use of [Terraform](https://www.terraform.io/) as a replacement for Cloudformation. AWS services used in anger across multiple projects include API Gateway, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch, Cognito, CodeBuild, CodePipeline, DynamoDB, EC2, ECS, ECR, EFS, Elasticache, Elastic Beanstalk, Elasticsearch, ELB, Glue (building ETL pipelines), IAM, KMS, Lambda, RDS (Aurora/Postgres), Route 53, S3, SAM, Secrets Manager, SNS (including message filterinf), SQS, Step Functions, VPC and X-Ray.
 - **JavaScript**: fully proficient in ES6. Technologies used include [React](https://reactjs.org/), [Redux](http://redux.js.org/), [Node](https://nodejs.org/en/), [Vue](https://vuejs.org/), [GraphQL](http://graphql.org/) and the [Apollo platform](https://www.apollographql.com/) and building AWS Lambda functions for event-driven systems.
 - **Go**: working with Go for nearly 3 years now, main project involved building out an event-driven distributed content platform at The Economist. Instrumental in bringing the language to the organization, securing training with [Bill Kennedy](https://www.linkedin.com/in/william-kennedy-5b318778/) and mentoring new hires. Outside The Economist, contributed to numerous Go OSS projects and open sourced some libraries we built in house. Also work closely with [Todd McLeod](https://www.udemy.com/course/learn-how-to-code/#instructor-1), who created the best-selling Go courses on Udemy, on his [social education platform](https://greatercommons.com/). Bill was kind enough to say this about me:
   > "In the early days when I was learning and teaching Go, I had the pleasure of meeting Dave. Dave was writing Go and introducing it into his projects as an early adopter. Dave was there to help me as well since he had experience I didn't have yet. If you are looking for a top notch engineer with the ability to lead/manage teams and projects, Dave is someone you need to consider."
@@ -23,6 +23,10 @@ I believe mindset trumps technology and have a passionate interest in collaborat
 I am also deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clojure.org/) right now as a big fan of functional programming.
 
 ## MOST RECENT PROJECTS
+
+### OCT 2020 - PRESENT: CONSULTANT ENGINEER - LUSH
+
+Working as a back end engineer across a variety of products and teams. Cloud back end (GCP) with services written in Go, Python and Node. Used a variety of build and dev tools including [Mage](https://magefile.org), [Tusk](https://github.com/rliebz/tusk), [SOPS](https://github.com/mozilla/sops). GCP technologies used: BigQuery, Spanner, Pub/Sub, Cloud Storage.
 
 ### MAR 2020 - SEP 2020: CONSULTANT ENGINEER - DIRECT LINE
 
