@@ -10,7 +10,7 @@ I believe mindset trumps technology and have a passionate interest in collaborat
 
 ## SKILLSET
 
-- **Cloud**: Fully conversant with AWS and GCP, making heavy use of many services as detailed below and pushing the envelope in many cases. Also possessed of a devops mindset, instrumental in building CICD flows for teams and pushing ownership of the full software development lifeycle to engineers. Recent projects involved use of [Terraform](https://www.terraform.io/) as a replacement for Cloudformation. AWS services used in anger across multiple projects include API Gateway, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch, Cognito, CodeBuild, CodePipeline, DynamoDB, EC2, ECS, ECR, EFS, Elasticache, Elastic Beanstalk, Elasticsearch, ELB, Glue (building ETL pipelines), IAM, KMS, Lambda, RDS (Aurora/Postgres), Route 53, S3, SAM, Secrets Manager, SNS (including message filterinf), SQS, Step Functions, VPC and X-Ray.
+- **Cloud**: Fully conversant with AWS and GCP, making heavy use of many services as detailed below and pushing the envelope in many cases. Also possessed of a devops mindset, instrumental in building CICD flows for teams and pushing ownership of the full software development lifeycle to engineers. Recent projects involved use of [Terraform](https://www.terraform.io/) as a replacement for Cloudformation. AWS services used in anger across multiple projects include API Gateway, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch, Cognito, CodeBuild, CodePipeline, DynamoDB, EC2, ECS, ECR, EFS, Elasticache, Elastic Beanstalk, Elasticsearch, ELB, Glue (building ETL pipelines), IAM, KMS, Lambda, RDS (Aurora/Postgres), Route 53, S3, SAM, Secrets Manager, SNS (including message filterinf), SQS, Step Functions, VPC and X-Ray. GCP services used of late include BigQuery, Cloud Storage, Spanner, Cloud SQL, GKE, GCE, Stackdriver and PubSub.
 - **JavaScript**: fully proficient in ES6. Technologies used include [React](https://reactjs.org/), [Redux](http://redux.js.org/), [Node](https://nodejs.org/en/), [Vue](https://vuejs.org/), [GraphQL](http://graphql.org/) and the [Apollo platform](https://www.apollographql.com/) and building AWS Lambda functions for event-driven systems.
 - **Go**: working with Go for nearly 3 years now, main project involved building out an event-driven distributed content platform at The Economist. Instrumental in bringing the language to the organization, securing training with [Bill Kennedy](https://www.linkedin.com/in/william-kennedy-5b318778/) and mentoring new hires. Outside The Economist, contributed to numerous Go OSS projects and open sourced some libraries we built in house. Also work closely with [Todd McLeod](https://www.udemy.com/course/learn-how-to-code/#instructor-1), who created the best-selling Go courses on Udemy, on his [social education platform](https://greatercommons.com/). Bill was kind enough to say this about me:
   > "In the early days when I was learning and teaching Go, I had the pleasure of meeting Dave. Dave was writing Go and introducing it into his projects as an early adopter. Dave was there to help me as well since he had experience I didn't have yet. If you are looking for a top notch engineer with the ability to lead/manage teams and projects, Dave is someone you need to consider."
@@ -26,7 +26,7 @@ I am also deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clo
 
 ### OCT 2020 - PRESENT: CONSULTANT ENGINEER - LUSH
 
-Working as a back end engineer across a variety of products and teams. Cloud back end (GCP) with services written in Go, Python and Node. Used a variety of build and dev tools including [Mage](https://magefile.org), [Tusk](https://github.com/rliebz/tusk), [SOPS](https://github.com/mozilla/sops). GCP technologies used: BigQuery, Spanner, Pub/Sub, Cloud Storage.
+Working as a back end engineer across a variety of products and teams. Remit included consolidating and documenting the microservice estate, hiring new engineers, building and maintaining services, acting as a conduit between back end and front end teams, collaborating as devops building CICD pipelines (ArgoCD, K8S) and working on cloud back end (GCP) with services written in Go, Python and Node. Used a variety of build and dev tools including [Mage](https://magefile.org), [Tusk](https://github.com/rliebz/tusk), [SOPS](https://github.com/mozilla/sops). GCP technologies used: BigQuery, Spanner, PubSub, Cloud Storage, Cloud SQL, Kubernetes, GCE.
 
 ### MAR 2020 - SEP 2020: CONSULTANT ENGINEER - DIRECT LINE
 
@@ -37,7 +37,7 @@ Worked as a consultant for Direct Line on a pioneer cloud team building a real t
 * Single-handedly building a GraphQL layer to interface the front end with relational data contained in a Postgres database. Technologies used included Docker, Node (apollo-server, apollo-server-express, dataloader, dotenv, express, graphql, graphql-tools, pg, pg-format, sequelize) and AWS (Aurora).
 * Building an ETL pipeline to process and transform large quantities of claim data in batch for storage in a relational database. Service was invoked by S3 event triggers on CSV upload. Technologies involved Node, Python, Apache Spark and AWS (Athena, Cloudformation, CloudWatch, CodeBuild, CodePipeline, S3 and Glue).
 
-### OCT 2018 - FEB 2020: TECHNICAL LEAD, CONTENT PLATFORM, THE ECONOMIST 
+### OCT 2019 - FEB 2020: TECHNICAL LEAD, CONTENT PLATFORM, THE ECONOMIST 
 
 Worked on the Content Platform as technical lead for a team of 8 distributed engineers (UK, New York and Slovakia), building on the foundational work completed in a previous project (detailed below) and migrating the initial fleet of worker services from Elastic Beanstalk worker environments to AWS Lambda and serverless. Worked on the entire stack, including the above mentioned workers (Go), a subset of workers written in ES6 JavaScript, the GraphQL layer that sat in front of the fleet, a gateway layer which comprised Nginx (Openresty), Varnish and Lua, and an Elasticsearch back end, including working out a way to re-index with zero downtime. Technologies used: Docker, Node, Varnish, Nginx, Lua, Elasticsearch, AWS (AWS SAM, Cloudformation, Cloudwatch, CodeBuild, CodePipeline, Elasticache, S3 SNS and SQS).
 
@@ -49,7 +49,7 @@ Worked on the Content Platform as technical lead for a team of 8 distributed eng
 
 [Juhjar Singh](https://www.linkedin.com/in/jujhar/), Devops Practice Lead, The Economist.
 
-### OCT 2018 - FEB 2020: PLATFORM ENGINEER, THE ECONOMIST
+### MAY 2017 - OCT 2019: PLATFORM ENGINEER, THE ECONOMIST
 
 Built out several iterations of a distributed content platform at The Economist. Involved in all aspects of the project:
 
