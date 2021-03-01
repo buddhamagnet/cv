@@ -11,7 +11,7 @@ I believe mindset trumps technology and have a passionate interest in collaborat
 ## SKILLSET
 
 - **Cloud**: Fully conversant with AWS and GCP, making heavy use of many services as detailed below and pushing the envelope in many cases. Also possessed of a devops mindset, instrumental in building CICD flows for teams and pushing ownership of the full software development lifeycle to engineers. Recent projects involved use of [Terraform](https://www.terraform.io/) as a replacement for Cloudformation. AWS services used in anger across multiple projects include API Gateway, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch, Cognito, CodeBuild, CodePipeline, DynamoDB, EC2, ECS, ECR, EFS, Elasticache, Elastic Beanstalk, Elasticsearch, ELB, Glue (building ETL pipelines), IAM, KMS, Lambda, RDS (Aurora/Postgres), Route 53, S3, SAM, Secrets Manager, SNS (including message filterinf), SQS, Step Functions, VPC and X-Ray. GCP services used of late include BigQuery, Cloud Storage, Spanner, Cloud SQL, GKE, GCE, Stackdriver and PubSub.
-- **JavaScript**: fully proficient in ES6. Technologies used include [React](https://reactjs.org/), [Redux](http://redux.js.org/), [Node](https://nodejs.org/en/), [Vue](https://vuejs.org/), [GraphQL](http://graphql.org/) and the [Apollo platform](https://www.apollographql.com/) and building AWS Lambda functions for event-driven systems.
+- **JavaScript**: fully proficient in ES6. Technologies used include [Typescript](https://www.typescriptlang.org), [React](https://reactjs.org/), [Redux](http://redux.js.org/), [Node](https://nodejs.org/en/), [Vue](https://vuejs.org/), [GraphQL](http://graphql.org/) and the [Apollo platform](https://www.apollographql.com/) and building AWS Lambda functions for event-driven systems.
 - **Go**: working with Go for nearly 3 years now, main project involved building out an event-driven distributed content platform at The Economist. Instrumental in bringing the language to the organization, securing training with [Bill Kennedy](https://www.linkedin.com/in/william-kennedy-5b318778/) and mentoring new hires. Outside The Economist, contributed to numerous Go OSS projects and open sourced some libraries we built in house. Also work closely with [Todd McLeod](https://www.udemy.com/course/learn-how-to-code/#instructor-1), who created the best-selling Go courses on Udemy, on his [social education platform](https://greatercommons.com/). Bill was kind enough to say this about me:
   > "In the early days when I was learning and teaching Go, I had the pleasure of meeting Dave. Dave was writing Go and introducing it into his projects as an early adopter. Dave was there to help me as well since he had experience I didn't have yet. If you are looking for a top notch engineer with the ability to lead/manage teams and projects, Dave is someone you need to consider."
 - Example OSS contributions to Go projects: [bluemonday](https://github.com/microcosm-cc/bluemonday/commits?author=buddhamagnet), [Docker](https://github.com/docker/docker/commit/6fd8e485c85c4f8ca62578d0840bdeddc4cba151), [caddy](https://github.com/caddyserver/caddy/commits?author=buddhamagnet) and [godep](https://github.com/tools/godep/commits?author=buddhamagnet). Example of a core library built by myself for the first iteration of the platform and open sourced by The Economist - [ramlapi](https://github.com/EconomistDigitalSolutions/ramlapi).
@@ -24,7 +24,13 @@ I am also deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clo
 
 ## MOST RECENT PROJECTS
 
-### OCT 2020 - PRESENT: CONSULTANT ENGINEER - LUSH
+### JAN 2021 - PRESENT: CONSULTANT ENGINEER - THE ECONOMIST
+
+Back at The Economist again, this time on a contract to build out a syndication platform to consolidate and centralise various approaches adopted in-house to syndicate content to a range of internal, retail, wholesale and aggregation clients.
+
+Techologies used: Typescript, AWS (Lambda, SNS, SQS, AWS CDK, Step Functions, CloudWatch Events).
+
+### OCT 2020 - JAN 2021: CONSULTANT ENGINEER - LUSH
 
 Working as a back end engineer across a variety of products and teams. Remit included consolidating and documenting the microservice estate, hiring new engineers, building and maintaining services, acting as a conduit between back end and front end teams, collaborating as devops building CICD pipelines (ArgoCD, K8S) and working on cloud back end (GCP) with services written in Go, Python and Node. Used a variety of build and dev tools including [Mage](https://magefile.org), [Tusk](https://github.com/rliebz/tusk), [SOPS](https://github.com/mozilla/sops). GCP technologies used: BigQuery, Spanner, PubSub, Cloud Storage, Cloud SQL, Kubernetes, GCE.
 

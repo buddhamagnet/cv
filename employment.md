@@ -1,5 +1,15 @@
 ## [BACK TO CV](https://github.com/buddhamagnet/cv/blob/master/README.md)
 
+### [THE ECONOMIST] JAN 2021 - PRESENT
+
+Back at The Economist again, this time on a contract to build out a syndication platform to consolidate and centralise various approaches adopted in-house to syndicate content to a range of internal, retail, wholesale and aggregation clients.
+
+Techologies used: Typescript, AWS (Lambda, SNS, SQS, AWS CDK, Step Functions, CloudWatch Events).
+
+### [LUSH](https://uk.lush.com) OCT 2020 - JAN 2021
+
+Working as a back end engineer across a variety of products and teams. Remit included consolidating and documenting the microservice estate, hiring new engineers, building and maintaining services, acting as a conduit between back end and front end teams, collaborating as devops building CICD pipelines (ArgoCD, K8S) and working on cloud back end (GCP) with services written in Go, Python and Node. Used a variety of build and dev tools including [Mage](https://magefile.org), [Tusk](https://github.com/rliebz/tusk), [SOPS](https://github.com/mozilla/sops). GCP technologies used: BigQuery, Spanner, PubSub, Cloud Storage, Cloud SQL, Kubernetes, GCE.
+
 ### [DIRECT LINE](http://www.economist.com/) FEB 2020 - PRESENT
 
 Senior engineer, fraud department.
@@ -8,7 +18,7 @@ Senior engineer, fraud department.
 
 Technical lead, Content Platform. Heading up a distributed team of eight engineers.
 
-### [THE ECONOMIST](http://www.economist.com/) MAY 2017 - PRESENT
+### [THE ECONOMIST](http://www.economist.com/) MAY 2017 - OCT 2017
 
 Back at The Economist, this time straddling both front and back end teams armed with experience building out the microservice architecture (primarily in Go) with the platform team and a recent project making heavy use of React and Redux. Main remit was to act as a conduit between front end and back end as the former moved to consumption of a canonical data model built by the latter. Main work involved adapting GraphQL to work with the new model and helping to refactor the front end (Relay) parts accordinly. As of October 2017 I will be re-joining the content platform team full-time once again to work on wider intiatives.
 
