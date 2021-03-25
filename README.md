@@ -28,7 +28,7 @@ I am also deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clo
 
 Back at The Economist again, this time on a contract to build out a syndication platform to consolidate and centralise various approaches adopted in-house to syndicate content to a range of internal, retail, wholesale and aggregation clients.
 
-Techologies used: Typescript, AWS (Lambda, SNS, SQS, AWS CDK, Step Functions, CloudWatch Events).
+Techologies used: TypeScript with heavy functional flavour (mainly [Ramda](https://ramdajs.com/)), AWS (Lambda, SNS, SQS, AWS CDK, Step Functions, CloudWatch Events).
 
 ### OCT 2020 - JAN 2021: CONSULTANT ENGINEER - LUSH
 
