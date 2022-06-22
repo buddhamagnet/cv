@@ -24,6 +24,10 @@ I am also deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clo
 
 ## MOST RECENT PROJECTS
 
+### NOV 2022 - PRESENT: CONSULTANT ENGINEER - THE ECONOMIST
+
+Worked on the Economist editorial tools team (team assembled to switch from Drupal as a content source to [CUE](http://docs.escenic.com/cue-user-guide/3.3/introduction.html)) in order to help the team move the weekly edition publishing flow from the older source systems. Instrumental in helping the team achieve their target on time and under budget. First weekly edition was published from CUE with zero errors. 
+
 ### JAN 2021 - PRESENT: CONSULTANT ENGINEER - THE ECONOMIST
 
 Back at The Economist again, this time on a contract to build out a syndication platform to consolidate and centralise various approaches adopted in-house to syndicate content to a range of internal, retail, wholesale and aggregation clients.
