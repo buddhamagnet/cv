@@ -28,13 +28,13 @@ I am also deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clo
 
 Switched to team spun up to decommission the legacy content sources, APIs and cloud resources, alongside assisting in the build of a new content platform.
 
-Techologies used: TypeScript, GraphQL (Apollo toolchain), AWS (Lambda, SNS, SQS, AWS CDK, API Gateway, Step Functions, CloudWatch Events), Drupal, CUE.
+Technologies used: TypeScript, Node, GraphQL (Apollo toolchain), AWS (Lambda, SNS, SQS, AWS CDK, API Gateway, Step Functions, CloudWatch Events), Drupal, CUE.
 
 ### OCT 2021 - JUN 2021: CONSULTANT ENGINEER - THE ECONOMIST
 
 Worked on the Economist editorial tools team (team assembled to switch from Drupal as a content source to [CUE](http://docs.escenic.com/cue-user-guide/3.3/introduction.html)) in order to help the team move the weekly edition publishing flow from the older source systems. Instrumental in helping the team achieve their target on time and under budget. First weekly edition was published from CUE with zero errors.
 
-Techologies used: TypeScript, AWS (Lambda, SNS, SQS, AWS CDK, Step Functions, CloudWatch Events).
+Technologies used: TypeScript, Node, AWS (Lambda, SNS, SQS, AWS CDK, Step Functions, CloudWatch Events).
 
 ### JAN 2021 - OCT 2021: CONSULTANT ENGINEER - THE ECONOMIST
 
