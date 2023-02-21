@@ -24,9 +24,11 @@ I am also deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clo
 
 ## MOST RECENT PROJECTS
 
-### JUN 2021 - PRESENT: CONSULTANT ENGINEER - THE ECONOMIST
+### JUN 2021 - PRESENT: CONSULTANT TECH LEAD - THE ECONOMIST
 
 Switched to team spun up to decommission the legacy content sources, APIs and cloud resources, alongside assisting in the build of a new content platform.
+
+Work also involved cross-team collaboration in building out the new Content Platform (Apollo/Prisma, Lambda, Postgres, Cloudflare Workers) including schem stitching to use both the new and old Content Platforms at the GraphQL level as we deprecated functionality and building end to end migration plan and execution of same to get all old content (stored in Drupal and surfaced in old Content Platform) into the new API and data store (migration workers listening to SNS containing content reprocessing events, assembling old content into the new structure and pushing to the new GraphQL mutations) and working with BA to target appropriate content slices using a phased approach.
 
 Technologies used: TypeScript, Node, GraphQL (Apollo toolchain), AWS (Lambda, SNS, SQS, AWS CDK, API Gateway, Step Functions, CloudWatch Events), Drupal, CUE.
 
