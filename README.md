@@ -28,6 +28,13 @@ I am also deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clo
 
 Switched to team spun up to decommission the legacy content sources, APIs and cloud resources, alongside assisting in the build of a new content platform.
 
+Main initiatives included:
+
+* Creating and executing a migration plan for moving old content into the new Content Platform (Lambda, Apollo GraphQL).
+* Working with the Editorial Tools team to build new features to allow publication of older content sources from the new CMS (CUE) to the old and new Content Platforms.
+* Building out the new Economist podcast experience (easy wins in CP1, extra functionality built out in CP2).
+* Building out the new Economist homepage.
+
 Work also involved cross-team collaboration in building out the new Content Platform (Apollo/Prisma, Lambda, Postgres, Cloudflare Workers) including schema stitching to use both the new and old Content Platforms at the GraphQL level as we deprecated functionality and building end to end migration plan and execution of same to get all old content (stored in Drupal and surfaced in old Content Platform) into the new API and data store (migration workers listening to SNS containing content reprocessing events, assembling old content into the new structure and pushing to the new GraphQL mutations) and working with BA to target appropriate content slices using a phased approach.
 
 Technologies used: TypeScript, Node, GraphQL (Apollo toolchain), AWS (Lambda, SNS, SQS, AWS CDK, API Gateway, Step Functions, CloudWatch Events), Drupal, CUE.
