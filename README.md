@@ -10,7 +10,8 @@ I believe mindset trumps technology and have a passionate interest in collaborat
 
 ## SKILLSET
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1bdcb73d-9fac-4ceb-9469-65138088aead" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/35007/233423164-99cbc867-b78c-41bb-b7e4-2b66433bd3ad.png)
+
 
 - **Cloud**: Fully conversant with AWS and GCP, making heavy use of many services as detailed below and pushing the envelope in many cases. Also possessed of a devops mindset, instrumental in building CICD flows for teams and pushing ownership of the full software development lifeycle to engineers. Recent projects involved use of [Terraform](https://www.terraform.io/) as a replacement for Cloudformation. AWS services used in anger across multiple projects include API Gateway, Athena, CloudFormation, CloudFront, CloudTrail, CloudWatch, Cognito, CodeBuild, CodePipeline, DynamoDB, EC2, ECS, ECR, EFS, Elasticache, Elastic Beanstalk, Elasticsearch, ELB, Glue (building ETL pipelines), IAM, KMS, Lambda, RDS (Aurora/Postgres), Route 53, S3, SAM, Secrets Manager, SNS (including message filterinf), SQS, Step Functions, VPC and X-Ray. GCP services used of late include BigQuery, Cloud Storage, Spanner, Cloud SQL, GKE, GCE, Stackdriver and PubSub.
 - **JavaScript**: fully proficient in ES6. Technologies used include [Typescript](https://www.typescriptlang.org), [React](https://reactjs.org/), [Redux](http://redux.js.org/), [Node](https://nodejs.org/en/), [Vue](https://vuejs.org/), [GraphQL](http://graphql.org/) and the [Apollo platform](https://www.apollographql.com/) and building AWS Lambda functions for event-driven systems.
