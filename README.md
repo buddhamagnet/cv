@@ -1,5 +1,8 @@
 # DAVID GOODCHILD
 
+![aws-certified-solutions-architect-associate](https://github.com/buddhamagnet/cv/assets/35007/bf92b67e-947e-43c9-ad62-6f5c4d086a47) ![aws-certified-developer-associate](https://github.com/buddhamagnet/cv/assets/35007/8ea4e60e-814d-4a62-871f-400a6a55f5ec)
+
+
 ## IN A NUTSHELL
 
 I am a full stack engineer with over 20 years of experience working for all manner of organisations, from working as a single freelancer, through a number of startups and consultancies, to large companies including [Sun Microsystems](http://sun.com) and [The Economist](http://economist.com). I am passionate about open source and past contributions can be found below the employment history below.
