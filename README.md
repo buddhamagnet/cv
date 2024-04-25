@@ -1,6 +1,6 @@
 # DAVID GOODCHILD
 
-![aws-certified-cloud-practitioner](https://github.com/buddhamagnet/cv/assets/35007/2044b400-c7d2-412a-af1b-2b6b4477cbcf) ![aws-certified-solutions-architect-associate](https://github.com/buddhamagnet/cv/assets/35007/bf92b67e-947e-43c9-ad62-6f5c4d086a47) ![aws-certified-developer-associate](https://github.com/buddhamagnet/cv/assets/35007/8ea4e60e-814d-4a62-871f-400a6a55f5ec) ![aws-certified-sysops-administrator-associate](https://github.com/buddhamagnet/cv/assets/35007/73634ee2-f2c5-4b44-8ca2-dafcc48de3f8)
+![aws-certified-cloud-practitioner](https://github.com/buddhamagnet/cv/assets/35007/2044b400-c7d2-412a-af1b-2b6b4477cbcf) ![aws-certified-solutions-architect-associate](https://github.com/buddhamagnet/cv/assets/35007/bf92b67e-947e-43c9-ad62-6f5c4d086a47) ![aws-certified-developer-associate](https://github.com/buddhamagnet/cv/assets/35007/8ea4e60e-814d-4a62-871f-400a6a55f5ec) ![aws-certified-sysops-administrator-associate](https://github.com/buddhamagnet/cv/assets/35007/04ecd180-b2f9-4551-9609-836e2668ff2f)
 
 ## IN A NUTSHELL
 
