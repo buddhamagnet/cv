@@ -8,7 +8,7 @@ I am a full stack engineer with over 20 years of experience working for all mann
 
 ## MINDSET
 
-I believe mindset trumps technology and have a passionate interest in collaboration, mentoring, upskilling and communication. I think shipped and working software is better than perfect software and am fully possessed of a devops mindset, encouraging ownership of all aspects of the development lifecycle.
+I believe mindset trumps technology and have a passionate interest in collaboration, mentoring, upskilling and communication. I think shipped and working software is better than perfect software and am fully possessed of a devops mindset, encouraging ownership of all aspects of the development lifecycle. I have also worked across multiple teams in my time, picking up invaluable skills in cross-functional working, cross-team communication, dependency identification, cutting through static, unblocking team memmbers and data analysis.
 
 ## SKILLSET
 
