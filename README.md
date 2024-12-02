@@ -4,7 +4,7 @@
 
 ## IN A NUTSHELL
 
-I am a full stack engineer with over 20 years of experience working for all manner of organisations, from working as a single freelancer, through a number of startups and consultancies, to large companies including [Sun Microsystems](http://sun.com) and [The Economist](http://economist.com). I am passionate about open source and past contributions can be found below the employment history below. As I started my career in the 90s I have a solid foundation in all the things we used to do by hand (SQL, server admin, C, perl, you know the score).
+I am a full stack engineer and architect with over 20 years of experience working for all manner of organisations, from working as a single freelancer, through a number of startups and consultancies, to large companies including [Sun Microsystems](http://sun.com) and [The Economist](http://economist.com). I am passionate about open source and past contributions can be found below the employment history below. As I started my career in the 90s I have a solid foundation in all the things we used to do by hand (SQL, server admin, C, perl, you know the score).
 
 ## MINDSET
 
