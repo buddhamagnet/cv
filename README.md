@@ -1,9 +1,7 @@
 # DAVID GOODCHILD
 
-## IN A NUTSHELL![aws-certified-machine-learning-engineer-associate](https://github.com/user-attachments/assets/71675e97-c940-44ee-ba81-6bf1bc075d84)
-![aws-certified-cloud-practitioner](https://github.com/buddhamagnet/cv/assets/35007/2044b400-c7d2-412a-af1b-2b6b4477cbcf) ![aws-certified-solutions-architect-associate](https://github.com/buddhamagnet/cv/assets/35007/bf92b67e-947e-43c9-ad62-6f5c4d086a47) ![aws-certified-developer-associate](https://github.com/buddhamagnet/cv/assets/35007/8ea4e60e-814d-4a62-871f-400a6a55f5ec) ![aws-certified-sysops-administrator-associate](https://github.com/buddhamagnet/cv/assets/35007/04ecd180-b2f9-4551-9609-836e2668ff2f) 
-
-
+## IN A NUTSHELL
+![aws-certified-cloud-practitioner](https://github.com/buddhamagnet/cv/assets/35007/2044b400-c7d2-412a-af1b-2b6b4477cbcf) ![aws-certified-solutions-architect-associate](https://github.com/buddhamagnet/cv/assets/35007/bf92b67e-947e-43c9-ad62-6f5c4d086a47) ![aws-certified-developer-associate](https://github.com/buddhamagnet/cv/assets/35007/8ea4e60e-814d-4a62-871f-400a6a55f5ec) ![aws-certified-sysops-administrator-associate](https://github.com/buddhamagnet/cv/assets/35007/04ecd180-b2f9-4551-9609-836e2668ff2f) ![325520712-04ecd180-b2f9-4551-9609-836e2668ff2f](https://github.com/user-attachments/assets/891c0691-8ad1-49f6-87aa-3bec8c5815fb)
 
 I am a full stack engineer and architect with over 20 years of experience working for all manner of organisations, from working as a single freelancer, through a number of startups and consultancies, to large companies including [Sun Microsystems](http://sun.com) and [The Economist](http://economist.com). I am passionate about open source and past contributions can be found below the employment history below. As I started my career in the 90s I have a solid foundation in all the things we used to do by hand (SQL, server admin, C, perl, you know the score).
 
