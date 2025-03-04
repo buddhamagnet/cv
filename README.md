@@ -25,6 +25,10 @@ I am also deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clo
 
 ## MOST RECENT PROJECTS
 
+### MAR 2025 - PRESENT: CONSULTANT TECH LEAD - WPP
+
+Joined WPP as a tech lead working on ML projects across 15 teams.
+
 ### JUN 2022 - PRESENT: CONSULTANT TECH LEAD - THE ECONOMIST
 
 Switched to team spun up to decommission the legacy content sources, APIs and cloud resources, alongside assisting in the build of a new content platform.
