@@ -27,9 +27,11 @@ I am also deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clo
 
 ### MAR 2025 - PRESENT: CONSULTANT TECH LEAD - WPP
 
-Joined WPP as a tech lead working on ML projects across 15 teams.
+Joined WPP as a tech lead working on ML projects across 15 teams. Initially working on the platforms team for stack familiarity. Tech side specialises in ML and AI on AWS (Bedrock for Gemini and Claude) and Azure (ChatGPT), integrating with ML agents to create ML-driven products for a large portfolio of clients and businesses.
 
-### JUN 2022 - PRESENT: CONSULTANT TECH LEAD - THE ECONOMIST
+Technologies used: TypeScript, Node, AWS (Lambda, SNS, SQS, API Gateway, DynamoDB, Step Functions, Sagemaker, Bedrock, AWS Config, S3), Azure (for ChatGPT), ML models (including Claude, Gemini, ChatGPT, Deepseek R1, Google Imagen 3, Eleven Labs, Google Veo 2).
+
+### JUN 2022 - MAr 2025: CONSULTANT TECH LEAD - THE ECONOMIST
 
 Switched to team spun up to decommission the legacy content sources, APIs and cloud resources, alongside assisting in the build of a new content platform.
 
@@ -42,7 +44,7 @@ Main initiatives included:
 
 Work also involved cross-team collaboration in building out the new Content Platform (Apollo/Prisma, Lambda, Postgres, Cloudflare Workers) including schema stitching to use both the new and old Content Platforms at the GraphQL level as we deprecated functionality and building end to end migration plan and execution of same to get all old content (stored in Drupal and surfaced in old Content Platform) into the new API and data store (migration workers listening to SNS containing content reprocessing events, assembling old content into the new structure and pushing to the new GraphQL mutations) and working with BA to target appropriate content slices using a phased approach.
 
-Technologies used: TypeScript, Node, GraphQL (Apollo toolchain), AWS (Lambda, SNS, SQS, AWS CDK, API Gateway, Step Functions, CloudWatch Events), Drupal, CUE.
+Technologies used: TypeScript, Node, GraphQL (Apollo toolchain), AWS (S3, Lambda, SNS, SQS, AWS CDK, API Gateway, Step Functions, CloudWatch Events), Drupal, CUE.
 
 ### OCT 2021 - JUN 2022: CONSULTANT ENGINEER - THE ECONOMIST
 
