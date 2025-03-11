@@ -27,7 +27,7 @@ I am also deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clo
 
 ### MAR 2025 - PRESENT: CONSULTANT TECH LEAD - WPP
 
-Joined WPP as a tech lead working on ML projects across 15 teams. Initially working on the platforms team for stack familiarity. Tech side specialises in ML and AI on AWS (Bedrock for Gemini and Claude) and Azure (ChatGPT), integrating with ML agents to create ML-driven products for a large portfolio of clients and businesses.
+Joined WPP as a tech lead working on ML projects across 15 teams. Initially working on the platforms team for stack familiarity. Tech side specialises in ML and AI on AWS (Bedrock Claude), GCP (Gemini) and Azure (ChatGPT), integrating with ML agents to create ML-driven products for a large portfolio of clients and businesses.
 
 Technologies used: TypeScript, Node, AWS (Lambda, SNS, SQS, API Gateway, DynamoDB, Step Functions, Sagemaker, Bedrock, AWS Config, S3), Hashicorp (Terraform and Terraform Cloud), Azure (for ChatGPT), ML models (including Claude, Gemini, ChatGPT, Deepseek R1, Google Imagen 3, Eleven Labs, Google Veo 2).
 
