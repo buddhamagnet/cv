@@ -27,7 +27,7 @@ I am also deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clo
 
 ### MAR 2025 - PRESENT: CONSULTANT TECH LEAD - WPP
 
-Joined WPP as a tech lead working on ML projects across 15 teams. Initially working on the platforms team for stack familiarity. Tech side specialises in ML and AI on AWS (Bedrock Claude), GCP (Gemini) and Azure (ChatGPT), integrating with ML agents to create ML-driven products for a large portfolio of clients and businesses.
+Joined WPP as a tech lead working on ML projects across 15 teams. Initially working on the platforms team for stack familiarity. Tech side specialises in ML and AI on AWS (Bedrock, Claude), GCP (Gemini) and Azure (ChatGPT) as well as a set of other LLMs (Deepseek R1, Imagen, Bria, Dalle, Veo, Amazon Nova Reel) integrating with ML agents to create ML-driven products for a large portfolio of clients and businesses.
 
 After 4 weeks on the platform team, seconded to a new project to assist with some technical challenges (team lacked AWS experience), namely building out an event-driven system that is under NDA right now.
 
