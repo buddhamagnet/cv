@@ -34,7 +34,7 @@ After 4 weeks on the platform team, seconded to a new project to assist with som
 
 Technologies used: TypeScript, Node, AWS (Lambda, SNS, SQS, API Gateway, DynamoDB, Step Functions, Sagemaker, Bedrock, AWS Config, S3), Hashicorp (Terraform and Terraform Cloud), Azure (for ChatGPT), ML models (including Claude, Gemini, ChatGPT, Deepseek R1, Google Imagen 3, Eleven Labs, Google Veo 2).
 
-### JUN 2022 - MAr 2025: CONSULTANT TECH LEAD - THE ECONOMIST
+### JUN 2022 - MAR 2025: CONSULTANT TECH LEAD - THE ECONOMIST
 
 Switched to team spun up to decommission the legacy content sources, APIs and cloud resources, alongside assisting in the build of a new content platform.
 
