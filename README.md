@@ -32,7 +32,7 @@ Joined WPP as a tech lead working on ML projects across 15 teams. Initially work
 
 After 4 weeks on the platform team, seconded to a new project to assist with some technical challenges (team lacked AWS experience), namely building out an event-driven system that is under NDA right now.
 
-Technologies used: TypeScript, Node, AWS (Lambda, SNS, SQS, API Gateway, DynamoDB, Step Functions, Sagemaker, Bedrock, AWS Config, S3), Hashicorp (Terraform and Terraform Cloud), Azure (for ChatGPT), ML models (including Claude, Gemini, ChatGPT, Deepseek R1, Google Imagen 3, Eleven Labs, Google Veo 2).
+Technologies used: Serverless Framework, TypeScript, Node, AWS (Lambda, SNS, SQS, API Gateway, DynamoDB, Step Functions, Sagemaker, Bedrock, AWS Config, S3), Hashicorp (Terraform and Terraform Cloud), Azure (for ChatGPT), ML models (including Claude, Gemini, ChatGPT, Deepseek R1, Google Imagen 3, Eleven Labs, Google Veo 2).
 
 ### JUN 2022 - MAR 2025: CONSULTANT TECH LEAD - THE ECONOMIST
 
@@ -47,7 +47,7 @@ Main initiatives included:
 
 Work also involved cross-team collaboration in building out the new Content Platform (Apollo/Prisma, Lambda, Postgres, Cloudflare Workers) including schema stitching to use both the new and old Content Platforms at the GraphQL level as we deprecated functionality and building end to end migration plan and execution of same to get all old content (stored in Drupal and surfaced in old Content Platform) into the new API and data store (migration workers listening to SNS containing content reprocessing events, assembling old content into the new structure and pushing to the new GraphQL mutations) and working with BA to target appropriate content slices using a phased approach.
 
-Technologies used: TypeScript, Node, GraphQL (Apollo toolchain), AWS (S3, Lambda, SNS, SQS, AWS CDK, API Gateway, Step Functions, CloudWatch Events), Drupal, CUE.
+Technologies used: TypeScript, Node, GraphQL (Apollo toolchain), AWS (S3, Lambda, SNS, SQS, AWS CDK, AWS SAM, API Gateway, Step Functions, CloudWatch Events), Drupal, CUE.
 
 ### OCT 2021 - JUN 2022: CONSULTANT ENGINEER - THE ECONOMIST
 
