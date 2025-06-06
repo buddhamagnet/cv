@@ -21,6 +21,7 @@ I believe mindset trumps technology and have a passionate interest in collaborat
 - **Ruby**: not so much these days, but was a passionate Rubyist in the 2000s. Have worked with both pure Ruby and Rails, including contributions to the [Rails framework itself](http://contributors.rubyonrails.org/contributors/dave-goodchild/commits) and substantial [commits](https://github.com/splitrb/split/commits?author=buddhamagnet) to the A/B testing library Split.
 - **Back end**: extensive work on the back end using a large set of technologies inluding Varnish, [Openresty](https://openresty.org/en/) (including Lua), [Elasticsearch](https://www.elastic.co/), [Docker](https://www.docker.com/) to name a few. Pushed the envelope with many (writing test suites for Varnish using [varnishtest](https://varnish-cache.org/docs/trunk/reference/varnishtest.html), zero downtime deployments with Elasticsearch, using Lua to compose incoming requests into Elasticsearch filter searches via POST). Also SQL fluent.
 - **Logging and metrics**: Extensive use of a slew of technologies to gain maximum visibilty into applications, including [New Relic](https://newrelic.com/), [Datadog](https://www.datadoghq.com/), [Logz.io](https://logz.io), CloudWatch, AWS X-Ray, Kibana, [Grafana](https://grafana.com/) and [Prometheus](https://prometheus.io/).
+- **Human languages**: intermediate Spanish and preparing for Chinese Mandarin HSK 1.
 
 I am also deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clojure.org/) right now as a big fan of functional programming.
 
