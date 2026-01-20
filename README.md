@@ -5,7 +5,7 @@
 
 I am a software engineer and architect with over 25 years of experience working for all manner of organisations, from working as a single freelancer, through a number of startups and consultancies, to large companies including [Sun Microsystems](http://sun.com) and [The Economist](http://economist.com). I am passionate about open source and past contributions can be found below the employment history below. As I started my career in the 90s I have a solid foundation in all the things we used to do by hand (SQL, server admin, C, perl, you know the score).
 
-Don't get me to do whiteboard exercises! I have spent my career building new systems, working on legacy systems, debugging both and hunting for solutions to difficult problems at midnight. I've seen systems born and seem them die, and everything in between and have developed an instinct for the right thing borne out of blood and sweat. 
+Don't get me to do whiteboard exercises! I have spent my career building new systems, working on legacy systems, debugging both and hunting for solutions to difficult problems at midnight. I've seen systems born and seen them die, and everything in between and have developed an instinct for the right thing borne out of blood and sweat. 
 
 ## MINDSET
 
