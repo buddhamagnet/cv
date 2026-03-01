@@ -29,7 +29,7 @@ I am also deep into [Elixir](https://elixir-lang.org/) and [Clojure](https://clo
 
 ## MOST RECENT PROJECTS
 
-### MAR 2025 - PRESENT: CONSULTANT TECH LEAD - WPP
+### MAR 2025 - PRESENT: CONSULTANT TECH LEAD - WPP - CHINA PROJECT
 
 Joined WPP as a tech lead working on ML projects across 15 teams. Initially working on the platforms team supporting 100+ engineets across the platform. Tech side specialises in ML and AI on AWS (Bedrock, Claude), GCP (Gemini) and Azure (ChatGPT) as well as a set of other LLMs (Deepseek R1, Imagen, Bria, Dalle, Veo, Amazon Nova Reel) integrating with ML agents to create ML-driven products for a large portfolio of clients and businesses.
 
