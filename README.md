@@ -7,6 +7,8 @@ I am a software engineer and architect with over 25 years of experience working 
 
 Don't get me to do whiteboard exercises! I have spent my career building new systems, working on legacy systems, debugging both and hunting for solutions to difficult problems at midnight. I've seen systems born and seen them die, and everything in between and have developed an instinct for the right thing borne out of blood and sweat. 
 
+Riding the AI wave, deeply immersed in new tools and flows at WPP including Devin/Claude Code/loop engineering/token optimization. Striking the balance between parallel agentic workflows using Git worktrees and multiple models based on task and retaining skills and muscle memory to prevent skill atrophy.
+
 ## MINDSET
 
 I believe mindset trumps technology and have a passionate interest in collaboration, mentoring, upskilling and communication. I think shipped and working software is better than perfect software and am fully possessed of a devops mindset, encouraging ownership of all aspects of the development lifecycle. I have also worked across multiple teams in my time, picking up invaluable skills in cross-functional working, cross-team communication, dependency identification, cutting through static, unblocking team members and data analysis.
