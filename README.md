@@ -7,7 +7,7 @@ I am a software engineer and architect with over 25 years of experience working 
 
 Don't get me to do whiteboard exercises! I have spent my career building new systems, working on legacy systems, debugging both and hunting for solutions to difficult problems at midnight. I've seen systems born and seen them die, and everything in between and have developed an instinct for the right thing borne out of blood and sweat. 
 
-Riding the AI wave, deeply immersed in new tools and flows at WPP including Devin/Claude Code/loop engineering/token optimization. Striking the balance between parallel agentic workflows using Git worktrees and multiple models based on task and retaining skills and muscle memory to prevent skill atrophy.
+Riding the AI wave, deeply immersed in new tools and flows at WPP including Devin/Claude Code/loop engineering/token optimization. Striking the balance between parallel agentic workflows using Git worktrees and multiple models based on task and retaining skills and muscle memory to prevent skill atrophy. Heading up the China project at WPP involved configuring, deploying and measuring China-only LLMs in the China AWS region, including chat (Doubao Seed, Deepseek and Qwen), image (Doubao Seedream, Qwen Image, Cogview), video (Seedance, Minimax, Wan, Vidu and Kling), incuding ensuring output is language-aware (Hanzi and English) and ensuring guardrails and mechanisms are in place to ensure compliance in China (i.e. visble and embedded AIGC metadata). Full details of project below.
 
 ## MINDSET
 
