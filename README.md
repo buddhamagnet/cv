@@ -9,6 +9,8 @@ Don't get me to do whiteboard exercises! I have spent my career building new sys
 
 Riding the AI wave, deeply immersed in new tools and flows at WPP including Devin/Claude Code/loop engineering/token optimization. Striking the balance between parallel agentic workflows using Git worktrees and multiple models based on task and retaining skills and muscle memory to prevent skill atrophy. Heading up the China project at WPP involved configuring, deploying and measuring China-only LLMs in the China AWS region, including chat (Doubao Seed, Deepseek and Qwen), image (Doubao Seedream, Qwen Image, Cogview), video (Seedance, Minimax, Wan, Vidu and Kling), incuding ensuring output is language-aware (Hanzi and English) and ensuring guardrails and mechanisms are in place to ensure compliance in China (i.e. visble and embedded AIGC metadata). Full details of project below.
 
+Now heavily into Claude Code and building my AI dotfiles [here](https://github.com/buddhamagnet/dotclaude).
+
 I love knowing how things actually work under the hood and have spent a lot of time fine tuning and evaluating LLMs locally using a variety of data science tools (numpy/pandas/sklearn/xgboost) and running models locally using llama.cpp in order to get a solid technical foundation in reality.
 
 ## MINDSET
